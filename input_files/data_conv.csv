@@ -1,0 +1,863 @@
+"name","smiles","pH","biomim","percent"
+"Amethopterin","CN(Cc1nc2c(N)nc(N)nc2nc1)c(cc1)ccc1C(NC(CCC(O)=O)C(O)=O)=O","2.7",0,0
+"Amethopterin","CN(Cc1nc2c(N)nc(N)nc2nc1)c(cc1)ccc1C(NC(CCC(O)=O)C(O)=O)=O","2.7",1,100
+"Amethopterin","CN(Cc1nc2c(N)nc(N)nc2nc1)c(cc1)ccc1C(NC(CCC(O)=O)C(O)=O)=O","4.5",0,0
+"Amethopterin","CN(Cc1nc2c(N)nc(N)nc2nc1)c(cc1)ccc1C(NC(CCC(O)=O)C(O)=O)=O","4.5",1,100
+"Amethopterin","CN(Cc1nc2c(N)nc(N)nc2nc1)c(cc1)ccc1C(NC(CCC(O)=O)C(O)=O)=O","6.5",0,0
+"Amethopterin","CN(Cc1nc2c(N)nc(N)nc2nc1)c(cc1)ccc1C(NC(CCC(O)=O)C(O)=O)=O","6.5",1,59.4
+"Amethopterin","CN(Cc1nc2c(N)nc(N)nc2nc1)c(cc1)ccc1C(NC(CCC(O)=O)C(O)=O)=O","7.4",0,0
+"Amethopterin","CN(Cc1nc2c(N)nc(N)nc2nc1)c(cc1)ccc1C(NC(CCC(O)=O)C(O)=O)=O","7.4",1,51.3
+"Amodiaquine","CCN(CC)Cc(cc(cc1)Nc2c(ccc(Cl)c3)c3ncc2)c1O","2.7",0,0
+"Amodiaquine","CCN(CC)Cc(cc(cc1)Nc2c(ccc(Cl)c3)c3ncc2)c1O","2.7",1,100
+"Amodiaquine","CCN(CC)Cc(cc(cc1)Nc2c(ccc(Cl)c3)c3ncc2)c1O","4.5",0,0
+"Amodiaquine","CCN(CC)Cc(cc(cc1)Nc2c(ccc(Cl)c3)c3ncc2)c1O","4.5",1,100
+"Amodiaquine","CCN(CC)Cc(cc(cc1)Nc2c(ccc(Cl)c3)c3ncc2)c1O","6.5",0,0
+"Amodiaquine","CCN(CC)Cc(cc(cc1)Nc2c(ccc(Cl)c3)c3ncc2)c1O","6.5",1,33.7
+"Amodiaquine","CCN(CC)Cc(cc(cc1)Nc2c(ccc(Cl)c3)c3ncc2)c1O","7.4",0,0
+"Amodiaquine","CCN(CC)Cc(cc(cc1)Nc2c(ccc(Cl)c3)c3ncc2)c1O","7.4",1,87.5
+"Amlodipine","CCOC(C(C1c(cccc2)c2Cl)=C(COCCN)NC(C)=C1C(OC)=O)=O","2.7",0,0
+"Amlodipine","CCOC(C(C1c(cccc2)c2Cl)=C(COCCN)NC(C)=C1C(OC)=O)=O","2.7",1,100
+"Amlodipine","CCOC(C(C1c(cccc2)c2Cl)=C(COCCN)NC(C)=C1C(OC)=O)=O","4.5",0,0
+"Amlodipine","CCOC(C(C1c(cccc2)c2Cl)=C(COCCN)NC(C)=C1C(OC)=O)=O","4.5",1,100
+"Amlodipine","CCOC(C(C1c(cccc2)c2Cl)=C(COCCN)NC(C)=C1C(OC)=O)=O","6.5",0,5.6
+"Amlodipine","CCOC(C(C1c(cccc2)c2Cl)=C(COCCN)NC(C)=C1C(OC)=O)=O","6.5",1,100
+"Amlodipine","CCOC(C(C1c(cccc2)c2Cl)=C(COCCN)NC(C)=C1C(OC)=O)=O","7.4",0,0
+"Amlodipine","CCOC(C(C1c(cccc2)c2Cl)=C(COCCN)NC(C)=C1C(OC)=O)=O","7.4",1,38.9
+"Amoxicillin","CC(C)(C1C(O)=O)SC(C2NC(C(c(cc3)ccc3O)N)=O)N1C2=O","2.7",0,0
+"Amoxicillin","CC(C)(C1C(O)=O)SC(C2NC(C(c(cc3)ccc3O)N)=O)N1C2=O","2.7",1,83.7
+"Amoxicillin","CC(C)(C1C(O)=O)SC(C2NC(C(c(cc3)ccc3O)N)=O)N1C2=O","4.5",0,0
+"Amoxicillin","CC(C)(C1C(O)=O)SC(C2NC(C(c(cc3)ccc3O)N)=O)N1C2=O","4.5",1,100
+"Amoxicillin","CC(C)(C1C(O)=O)SC(C2NC(C(c(cc3)ccc3O)N)=O)N1C2=O","6.5",0,0
+"Amoxicillin","CC(C)(C1C(O)=O)SC(C2NC(C(c(cc3)ccc3O)N)=O)N1C2=O","6.5",1,55.1
+"Amoxicillin","CC(C)(C1C(O)=O)SC(C2NC(C(c(cc3)ccc3O)N)=O)N1C2=O","7.4",0,100
+"Amoxicillin","CC(C)(C1C(O)=O)SC(C2NC(C(c(cc3)ccc3O)N)=O)N1C2=O","7.4",1,100
+"Aripiprazole ","O=C(CC1)Nc2c1ccc(OCCCCN(CC1)CCN1c1cccc(Cl)c1Cl)c2","2.7",0,0
+"Aripiprazole ","O=C(CC1)Nc2c1ccc(OCCCCN(CC1)CCN1c1cccc(Cl)c1Cl)c2","2.7",1,100
+"Aripiprazole ","O=C(CC1)Nc2c1ccc(OCCCCN(CC1)CCN1c1cccc(Cl)c1Cl)c2","4.5",0,0
+"Aripiprazole ","O=C(CC1)Nc2c1ccc(OCCCCN(CC1)CCN1c1cccc(Cl)c1Cl)c2","4.5",1,98.9
+"Aripiprazole ","O=C(CC1)Nc2c1ccc(OCCCCN(CC1)CCN1c1cccc(Cl)c1Cl)c2","6.5",0,0
+"Aripiprazole ","O=C(CC1)Nc2c1ccc(OCCCCN(CC1)CCN1c1cccc(Cl)c1Cl)c2","6.5",1,3.7
+"Aripiprazole ","O=C(CC1)Nc2c1ccc(OCCCCN(CC1)CCN1c1cccc(Cl)c1Cl)c2","7.4",0,0
+"Aripiprazole ","O=C(CC1)Nc2c1ccc(OCCCCN(CC1)CCN1c1cccc(Cl)c1Cl)c2","7.4",1,0
+"Astemizole ","COc1ccc(CCN(CC2)CCC2Nc2nc(cccc3)c3n2Cc(cc2)ccc2F)cc1","2.7",0,0
+"Astemizole ","COc1ccc(CCN(CC2)CCC2Nc2nc(cccc3)c3n2Cc(cc2)ccc2F)cc1","2.7",1,96.3
+"Astemizole ","COc1ccc(CCN(CC2)CCC2Nc2nc(cccc3)c3n2Cc(cc2)ccc2F)cc1","4.5",0,0
+"Astemizole ","COc1ccc(CCN(CC2)CCC2Nc2nc(cccc3)c3n2Cc(cc2)ccc2F)cc1","4.5",1,100
+"Astemizole ","COc1ccc(CCN(CC2)CCC2Nc2nc(cccc3)c3n2Cc(cc2)ccc2F)cc1","6.5",0,0
+"Astemizole ","COc1ccc(CCN(CC2)CCC2Nc2nc(cccc3)c3n2Cc(cc2)ccc2F)cc1","6.5",1,71.4
+"Astemizole ","COc1ccc(CCN(CC2)CCC2Nc2nc(cccc3)c3n2Cc(cc2)ccc2F)cc1","7.4",0,0
+"Astemizole ","COc1ccc(CCN(CC2)CCC2Nc2nc(cccc3)c3n2Cc(cc2)ccc2F)cc1","7.4",1,38.1
+"Atorvastatin","CC(C)c1c(C(Nc2ccccc2)=O)c(-c2ccccc2)c(-c(cc2)ccc2F)n1CCC(CC(CC([O-])=O)O)O","2.7",0,0
+"Atorvastatin","CC(C)c1c(C(Nc2ccccc2)=O)c(-c2ccccc2)c(-c(cc2)ccc2F)n1CCC(CC(CC([O-])=O)O)O","2.7",1,100
+"Atorvastatin","CC(C)c1c(C(Nc2ccccc2)=O)c(-c2ccccc2)c(-c(cc2)ccc2F)n1CCC(CC(CC([O-])=O)O)O","4.5",0,0
+"Atorvastatin","CC(C)c1c(C(Nc2ccccc2)=O)c(-c2ccccc2)c(-c(cc2)ccc2F)n1CCC(CC(CC([O-])=O)O)O","4.5",1,100
+"Atorvastatin","CC(C)c1c(C(Nc2ccccc2)=O)c(-c2ccccc2)c(-c(cc2)ccc2F)n1CCC(CC(CC([O-])=O)O)O","6.5",0,0
+"Atorvastatin","CC(C)c1c(C(Nc2ccccc2)=O)c(-c2ccccc2)c(-c(cc2)ccc2F)n1CCC(CC(CC([O-])=O)O)O","6.5",1,75.1
+"Atorvastatin","CC(C)c1c(C(Nc2ccccc2)=O)c(-c2ccccc2)c(-c(cc2)ccc2F)n1CCC(CC(CC([O-])=O)O)O","7.4",0,0
+"Atorvastatin","CC(C)c1c(C(Nc2ccccc2)=O)c(-c2ccccc2)c(-c(cc2)ccc2F)n1CCC(CC(CC([O-])=O)O)O","7.4",1,0
+"Benidipin","CC(NC(C)=C(C1c2cccc([N+]([O-])=O)c2)C(OC2CN(Cc3ccccc3)CCC2)=O)=C1C(OC)=O","2.7",0,0
+"Benidipin","CC(NC(C)=C(C1c2cccc([N+]([O-])=O)c2)C(OC2CN(Cc3ccccc3)CCC2)=O)=C1C(OC)=O","2.7",1,100
+"Benidipin","CC(NC(C)=C(C1c2cccc([N+]([O-])=O)c2)C(OC2CN(Cc3ccccc3)CCC2)=O)=C1C(OC)=O","4.5",0,0
+"Benidipin","CC(NC(C)=C(C1c2cccc([N+]([O-])=O)c2)C(OC2CN(Cc3ccccc3)CCC2)=O)=C1C(OC)=O","4.5",1,100
+"Benidipin","CC(NC(C)=C(C1c2cccc([N+]([O-])=O)c2)C(OC2CN(Cc3ccccc3)CCC2)=O)=C1C(OC)=O","6.5",0,0
+"Benidipin","CC(NC(C)=C(C1c2cccc([N+]([O-])=O)c2)C(OC2CN(Cc3ccccc3)CCC2)=O)=C1C(OC)=O","6.5",1,16.4
+"Benidipin","CC(NC(C)=C(C1c2cccc([N+]([O-])=O)c2)C(OC2CN(Cc3ccccc3)CCC2)=O)=C1C(OC)=O","7.4",0,0
+"Benidipin","CC(NC(C)=C(C1c2cccc([N+]([O-])=O)c2)C(OC2CN(Cc3ccccc3)CCC2)=O)=C1C(OC)=O","7.4",1,21
+"Bepridil ","CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1","2.7",0,0
+"Bepridil ","CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1","2.7",1,100
+"Bepridil ","CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1","4.5",0,0
+"Bepridil ","CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1","4.5",1,100
+"Bepridil ","CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1","6.5",0,0
+"Bepridil ","CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1","6.5",1,100
+"Bepridil ","CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1","7.4",0,0
+"Bepridil ","CC(C)COCC(CN(Cc1ccccc1)c1ccccc1)N1CCCC1","7.4",1,70.8
+"Bevantolol","Cc1cccc(OCC(CNCCc(cc2)cc(OC)c2OC)O)c1","2.7",0,0
+"Bevantolol","Cc1cccc(OCC(CNCCc(cc2)cc(OC)c2OC)O)c1","2.7",1,40
+"Bevantolol","Cc1cccc(OCC(CNCCc(cc2)cc(OC)c2OC)O)c1","4.5",0,0
+"Bevantolol","Cc1cccc(OCC(CNCCc(cc2)cc(OC)c2OC)O)c1","4.5",1,0
+"Bevantolol","Cc1cccc(OCC(CNCCc(cc2)cc(OC)c2OC)O)c1","6.5",0,0
+"Bevantolol","Cc1cccc(OCC(CNCCc(cc2)cc(OC)c2OC)O)c1","6.5",1,0
+"Bevantolol","Cc1cccc(OCC(CNCCc(cc2)cc(OC)c2OC)O)c1","7.4",0,0
+"Bevantolol","Cc1cccc(OCC(CNCCc(cc2)cc(OC)c2OC)O)c1","7.4",1,0
+"Bifonazole","c1cncn1C(c1ccccc1)c(cc1)ccc1-c1ccccc1","2.7",0,0
+"Bifonazole","c1cncn1C(c1ccccc1)c(cc1)ccc1-c1ccccc1","2.7",1,0
+"Bifonazole","c1cncn1C(c1ccccc1)c(cc1)ccc1-c1ccccc1","4.5",0,0
+"Bifonazole","c1cncn1C(c1ccccc1)c(cc1)ccc1-c1ccccc1","4.5",1,0
+"Bifonazole","c1cncn1C(c1ccccc1)c(cc1)ccc1-c1ccccc1","6.5",0,0
+"Bifonazole","c1cncn1C(c1ccccc1)c(cc1)ccc1-c1ccccc1","6.5",1,0
+"Bifonazole","c1cncn1C(c1ccccc1)c(cc1)ccc1-c1ccccc1","7.4",0,0
+"Bifonazole","c1cncn1C(c1ccccc1)c(cc1)ccc1-c1ccccc1","7.4",1,0
+"Bromfenac","Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O","2.7",0,80.3
+"Bromfenac","Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O","2.7",1,100
+"Bromfenac","Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O","4.5",0,0
+"Bromfenac","Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O","4.5",1,100
+"Bromfenac","Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O","6.5",0,0
+"Bromfenac","Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O","6.5",1,19.2
+"Bromfenac","Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O","7.4",0,0
+"Bromfenac","Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O","7.4",1,0
+"Buspirone","O=C(CC1(CCCC1)C1)N(CCCCN(CC2)CCN2c2ncccn2)C1=O","2.7",0,0
+"Buspirone","O=C(CC1(CCCC1)C1)N(CCCCN(CC2)CCN2c2ncccn2)C1=O","2.7",1,54.3
+"Buspirone","O=C(CC1(CCCC1)C1)N(CCCCN(CC2)CCN2c2ncccn2)C1=O","4.5",0,0
+"Buspirone","O=C(CC1(CCCC1)C1)N(CCCCN(CC2)CCN2c2ncccn2)C1=O","4.5",1,77.8
+"Buspirone","O=C(CC1(CCCC1)C1)N(CCCCN(CC2)CCN2c2ncccn2)C1=O","6.5",0,0
+"Buspirone","O=C(CC1(CCCC1)C1)N(CCCCN(CC2)CCN2c2ncccn2)C1=O","6.5",1,64.6
+"Buspirone","O=C(CC1(CCCC1)C1)N(CCCCN(CC2)CCN2c2ncccn2)C1=O","7.4",0,0
+"Buspirone","O=C(CC1(CCCC1)C1)N(CCCCN(CC2)CCN2c2ncccn2)C1=O","7.4",1,57.7
+"L-Cephalexin","CC(CSC1C2NC(C(c3ccccc3)N)=O)=C(C(O)=O)N1C2=O","2.7",0,0
+"L-Cephalexin","CC(CSC1C2NC(C(c3ccccc3)N)=O)=C(C(O)=O)N1C2=O","2.7",1,84
+"L-Cephalexin","CC(CSC1C2NC(C(c3ccccc3)N)=O)=C(C(O)=O)N1C2=O","4.5",0,0
+"L-Cephalexin","CC(CSC1C2NC(C(c3ccccc3)N)=O)=C(C(O)=O)N1C2=O","4.5",1,17.2
+"L-Cephalexin","CC(CSC1C2NC(C(c3ccccc3)N)=O)=C(C(O)=O)N1C2=O","6.5",0,0
+"L-Cephalexin","CC(CSC1C2NC(C(c3ccccc3)N)=O)=C(C(O)=O)N1C2=O","6.5",1,91.2
+"L-Cephalexin","CC(CSC1C2NC(C(c3ccccc3)N)=O)=C(C(O)=O)N1C2=O","7.4",0,0
+"L-Cephalexin","CC(CSC1C2NC(C(c3ccccc3)N)=O)=C(C(O)=O)N1C2=O","7.4",1,28.2
+"Chloroquine","CCN(CC)CCCC(C)Nc1c(ccc(Cl)c2)c2ncc1","2.7",0,0
+"Chloroquine","CCN(CC)CCCC(C)Nc1c(ccc(Cl)c2)c2ncc1","2.7",1,10.8
+"Chloroquine","CCN(CC)CCCC(C)Nc1c(ccc(Cl)c2)c2ncc1","4.5",0,0
+"Chloroquine","CCN(CC)CCCC(C)Nc1c(ccc(Cl)c2)c2ncc1","4.5",1,96.6
+"Chloroquine","CCN(CC)CCCC(C)Nc1c(ccc(Cl)c2)c2ncc1","6.5",0,0
+"Chloroquine","CCN(CC)CCCC(C)Nc1c(ccc(Cl)c2)c2ncc1","6.5",1,57
+"Chloroquine","CCN(CC)CCCC(C)Nc1c(ccc(Cl)c2)c2ncc1","7.4",0,0
+"Chloroquine","CCN(CC)CCCC(C)Nc1c(ccc(Cl)c2)c2ncc1","7.4",1,53.7
+"Chlorpromazine","CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2","2.7",0,0
+"Chlorpromazine","CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2","2.7",1,100
+"Chlorpromazine","CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2","4.5",0,0
+"Chlorpromazine","CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2","4.5",1,71.2
+"Chlorpromazine","CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2","6.5",0,0
+"Chlorpromazine","CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2","6.5",1,27.8
+"Chlorpromazine","CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2","7.4",0,0
+"Chlorpromazine","CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2","7.4",1,34.8
+"Cilostazol","O=C(CC1)Nc(cc2)c1cc2OCCCCc1nnnn1C1CCCCC1","2.7",0,0
+"Cilostazol","O=C(CC1)Nc(cc2)c1cc2OCCCCc1nnnn1C1CCCCC1","2.7",1,95
+"Cilostazol","O=C(CC1)Nc(cc2)c1cc2OCCCCc1nnnn1C1CCCCC1","4.5",0,0
+"Cilostazol","O=C(CC1)Nc(cc2)c1cc2OCCCCc1nnnn1C1CCCCC1","4.5",1,64.8
+"Cilostazol","O=C(CC1)Nc(cc2)c1cc2OCCCCc1nnnn1C1CCCCC1","6.5",0,0
+"Cilostazol","O=C(CC1)Nc(cc2)c1cc2OCCCCc1nnnn1C1CCCCC1","6.5",1,97.4
+"Cilostazol","O=C(CC1)Nc(cc2)c1cc2OCCCCc1nnnn1C1CCCCC1","7.4",0,0
+"Cilostazol","O=C(CC1)Nc(cc2)c1cc2OCCCCc1nnnn1C1CCCCC1","7.4",1,0
+"Chlofazimine  ","CC(C)N=C1C(Nc(cc2)ccc2Cl)=CC2=Nc(cccc3)c3N(c(cc3)ccc3Cl)C2=C1","2.7",0,0
+"Chlofazimine  ","CC(C)N=C1C(Nc(cc2)ccc2Cl)=CC2=Nc(cccc3)c3N(c(cc3)ccc3Cl)C2=C1","2.7",1,100
+"Chlofazimine  ","CC(C)N=C1C(Nc(cc2)ccc2Cl)=CC2=Nc(cccc3)c3N(c(cc3)ccc3Cl)C2=C1","4.5",0,0
+"Chlofazimine  ","CC(C)N=C1C(Nc(cc2)ccc2Cl)=CC2=Nc(cccc3)c3N(c(cc3)ccc3Cl)C2=C1","4.5",1,88
+"Chlofazimine  ","CC(C)N=C1C(Nc(cc2)ccc2Cl)=CC2=Nc(cccc3)c3N(c(cc3)ccc3Cl)C2=C1","6.5",0,0
+"Chlofazimine  ","CC(C)N=C1C(Nc(cc2)ccc2Cl)=CC2=Nc(cccc3)c3N(c(cc3)ccc3Cl)C2=C1","6.5",1,38.5
+"Chlofazimine  ","CC(C)N=C1C(Nc(cc2)ccc2Cl)=CC2=Nc(cccc3)c3N(c(cc3)ccc3Cl)C2=C1","7.4",0,0
+"Chlofazimine  ","CC(C)N=C1C(Nc(cc2)ccc2Cl)=CC2=Nc(cccc3)c3N(c(cc3)ccc3Cl)C2=C1","7.4",1,87.6
+"Clomipramine","CN(C)CCCN(c1c(CC2)cccc1)c1c2ccc(Cl)c1","2.7",0,0
+"Clomipramine","CN(C)CCCN(c1c(CC2)cccc1)c1c2ccc(Cl)c1","2.7",1,59.7
+"Clomipramine","CN(C)CCCN(c1c(CC2)cccc1)c1c2ccc(Cl)c1","4.5",0,0
+"Clomipramine","CN(C)CCCN(c1c(CC2)cccc1)c1c2ccc(Cl)c1","4.5",1,81.1
+"Clomipramine","CN(C)CCCN(c1c(CC2)cccc1)c1c2ccc(Cl)c1","6.5",0,0
+"Clomipramine","CN(C)CCCN(c1c(CC2)cccc1)c1c2ccc(Cl)c1","6.5",1,87.9
+"Clomipramine","CN(C)CCCN(c1c(CC2)cccc1)c1c2ccc(Cl)c1","7.4",0,0
+"Clomipramine","CN(C)CCCN(c1c(CC2)cccc1)c1c2ccc(Cl)c1","7.4",1,0
+"Clopidogrel","COC(C(c(cccc1)c1Cl)N(CC1)Cc2c1scc2)=O","2.7",0,0
+"Clopidogrel","COC(C(c(cccc1)c1Cl)N(CC1)Cc2c1scc2)=O","2.7",1,26.5
+"Clopidogrel","COC(C(c(cccc1)c1Cl)N(CC1)Cc2c1scc2)=O","4.5",0,0
+"Clopidogrel","COC(C(c(cccc1)c1Cl)N(CC1)Cc2c1scc2)=O","4.5",1,23.3
+"Clopidogrel","COC(C(c(cccc1)c1Cl)N(CC1)Cc2c1scc2)=O","6.5",0,0
+"Clopidogrel","COC(C(c(cccc1)c1Cl)N(CC1)Cc2c1scc2)=O","6.5",1,11.4
+"Clopidogrel","COC(C(c(cccc1)c1Cl)N(CC1)Cc2c1scc2)=O","7.4",0,0
+"Clopidogrel","COC(C(c(cccc1)c1Cl)N(CC1)Cc2c1scc2)=O","7.4",1,13.6
+"Clotrimazole","Clc1c(C(c2ccccc2)(c2ccccc2)n2cncc2)cccc1","2.7",0,0
+"Clotrimazole","Clc1c(C(c2ccccc2)(c2ccccc2)n2cncc2)cccc1","2.7",1,0
+"Clotrimazole","Clc1c(C(c2ccccc2)(c2ccccc2)n2cncc2)cccc1","4.5",0,0
+"Clotrimazole","Clc1c(C(c2ccccc2)(c2ccccc2)n2cncc2)cccc1","4.5",1,0
+"Clotrimazole","Clc1c(C(c2ccccc2)(c2ccccc2)n2cncc2)cccc1","6.5",0,0
+"Clotrimazole","Clc1c(C(c2ccccc2)(c2ccccc2)n2cncc2)cccc1","6.5",1,0
+"Clotrimazole","Clc1c(C(c2ccccc2)(c2ccccc2)n2cncc2)cccc1","7.4",0,0
+"Clotrimazole","Clc1c(C(c2ccccc2)(c2ccccc2)n2cncc2)cccc1","7.4",1,0
+"Clozapine","CN(CC1)CCN1C1=Nc(cc(cc2)Cl)c2Nc2c1cccc2","2.7",0,0
+"Clozapine","CN(CC1)CCN1C1=Nc(cc(cc2)Cl)c2Nc2c1cccc2","2.7",1,100
+"Clozapine","CN(CC1)CCN1C1=Nc(cc(cc2)Cl)c2Nc2c1cccc2","4.5",0,0
+"Clozapine","CN(CC1)CCN1C1=Nc(cc(cc2)Cl)c2Nc2c1cccc2","4.5",1,92.9
+"Clozapine","CN(CC1)CCN1C1=Nc(cc(cc2)Cl)c2Nc2c1cccc2","6.5",0,0
+"Clozapine","CN(CC1)CCN1C1=Nc(cc(cc2)Cl)c2Nc2c1cccc2","6.5",1,100
+"Clozapine","CN(CC1)CCN1C1=Nc(cc(cc2)Cl)c2Nc2c1cccc2","7.4",0,0
+"Clozapine","CN(CC1)CCN1C1=Nc(cc(cc2)Cl)c2Nc2c1cccc2","7.4",1,52.8
+"Colchine","CC(NC(CCc(c(C1=CC=C2OC)c3OC)cc(OC)c3OC)C1=CC2=O)=O","2.7",0,0
+"Colchine","CC(NC(CCc(c(C1=CC=C2OC)c3OC)cc(OC)c3OC)C1=CC2=O)=O","2.7",1,0
+"Colchine","CC(NC(CCc(c(C1=CC=C2OC)c3OC)cc(OC)c3OC)C1=CC2=O)=O","4.5",0,0
+"Colchine","CC(NC(CCc(c(C1=CC=C2OC)c3OC)cc(OC)c3OC)C1=CC2=O)=O","4.5",1,0
+"Colchine","CC(NC(CCc(c(C1=CC=C2OC)c3OC)cc(OC)c3OC)C1=CC2=O)=O","6.5",0,0
+"Colchine","CC(NC(CCc(c(C1=CC=C2OC)c3OC)cc(OC)c3OC)C1=CC2=O)=O","6.5",1,0
+"Colchine","CC(NC(CCc(c(C1=CC=C2OC)c3OC)cc(OC)c3OC)C1=CC2=O)=O","7.4",0,0
+"Colchine","CC(NC(CCc(c(C1=CC=C2OC)c3OC)cc(OC)c3OC)C1=CC2=O)=O","7.4",1,0
+"Dantrolene","[O-]C(CN1N=Cc2ccc(-c(cc3)ccc3[N+]([O-])=O)o2)=NC1=O","2.7",0,0
+"Dantrolene","[O-]C(CN1N=Cc2ccc(-c(cc3)ccc3[N+]([O-])=O)o2)=NC1=O","2.7",1,0
+"Dantrolene","[O-]C(CN1N=Cc2ccc(-c(cc3)ccc3[N+]([O-])=O)o2)=NC1=O","4.5",0,0
+"Dantrolene","[O-]C(CN1N=Cc2ccc(-c(cc3)ccc3[N+]([O-])=O)o2)=NC1=O","4.5",1,0
+"Dantrolene","[O-]C(CN1N=Cc2ccc(-c(cc3)ccc3[N+]([O-])=O)o2)=NC1=O","6.5",0,0
+"Dantrolene","[O-]C(CN1N=Cc2ccc(-c(cc3)ccc3[N+]([O-])=O)o2)=NC1=O","6.5",1,0
+"Dantrolene","[O-]C(CN1N=Cc2ccc(-c(cc3)ccc3[N+]([O-])=O)o2)=NC1=O","7.4",0,0
+"Dantrolene","[O-]C(CN1N=Cc2ccc(-c(cc3)ccc3[N+]([O-])=O)o2)=NC1=O","7.4",1,0
+"Dibucaine","CCCCOc1nc2ccccc2c(C(NCCN(CC)CC)=O)c1","2.7",0,0
+"Dibucaine","CCCCOc1nc2ccccc2c(C(NCCN(CC)CC)=O)c1","2.7",1,0
+"Dibucaine","CCCCOc1nc2ccccc2c(C(NCCN(CC)CC)=O)c1","4.5",0,0
+"Dibucaine","CCCCOc1nc2ccccc2c(C(NCCN(CC)CC)=O)c1","4.5",1,61.7
+"Dibucaine","CCCCOc1nc2ccccc2c(C(NCCN(CC)CC)=O)c1","6.5",0,0
+"Dibucaine","CCCCOc1nc2ccccc2c(C(NCCN(CC)CC)=O)c1","6.5",1,94.4
+"Dibucaine","CCCCOc1nc2ccccc2c(C(NCCN(CC)CC)=O)c1","7.4",0,0
+"Dibucaine","CCCCOc1nc2ccccc2c(C(NCCN(CC)CC)=O)c1","7.4",1,0
+"Disopyramide1","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","2.7",0,0
+"Disopyramide1","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","2.7",1,0
+"Disopyramide1","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","4.5",0,0
+"Disopyramide1","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","4.5",1,4.8
+"Disopyramide1","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","6.5",0,0
+"Disopyramide1","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","6.5",1,70.1
+"Disopyramide1","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","7.4",0,0
+"Disopyramide1","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","7.4",1,87.3
+"Disopyramide2","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","2.7",0,0
+"Disopyramide2","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","2.7",1,0
+"Disopyramide2","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","4.5",0,0
+"Disopyramide2","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","4.5",1,4.8
+"Disopyramide2","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","6.5",0,0
+"Disopyramide2","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","6.5",1,70.1
+"Disopyramide2","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","7.4",0,0
+"Disopyramide2","CC(C)N(CCC(C(N)=O)(c1ccccc1)c1ncccc1)C(C)C","7.4",1,87.3
+"Diloxandine ","CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O","2.7",0,0
+"Diloxandine ","CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O","2.7",1,0
+"Diloxandine ","CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O","4.5",0,0
+"Diloxandine ","CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O","4.5",1,0
+"Diloxandine ","CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O","6.5",0,0
+"Diloxandine ","CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O","6.5",1,100
+"Diloxandine ","CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O","7.4",0,0
+"Diloxandine ","CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O","7.4",1,100
+"Dilthiazem","CC(OC(C(c(cc1)ccc1OC)Sc(cccc1)c1N1CCN(C)C)C1=O)=O","2.7",0,0
+"Dilthiazem","CC(OC(C(c(cc1)ccc1OC)Sc(cccc1)c1N1CCN(C)C)C1=O)=O","2.7",1,64.3
+"Dilthiazem","CC(OC(C(c(cc1)ccc1OC)Sc(cccc1)c1N1CCN(C)C)C1=O)=O","4.5",0,0
+"Dilthiazem","CC(OC(C(c(cc1)ccc1OC)Sc(cccc1)c1N1CCN(C)C)C1=O)=O","4.5",1,57.5
+"Dilthiazem","CC(OC(C(c(cc1)ccc1OC)Sc(cccc1)c1N1CCN(C)C)C1=O)=O","6.5",0,18.4
+"Dilthiazem","CC(OC(C(c(cc1)ccc1OC)Sc(cccc1)c1N1CCN(C)C)C1=O)=O","6.5",1,66.3
+"Dilthiazem","CC(OC(C(c(cc1)ccc1OC)Sc(cccc1)c1N1CCN(C)C)C1=O)=O","7.4",0,59.1
+"Dilthiazem","CC(OC(C(c(cc1)ccc1OC)Sc(cccc1)c1N1CCN(C)C)C1=O)=O","7.4",1,48.2
+"Domperidone","O=C1N(CCCN(CC2)CCC2N(c(ccc(Cl)c2)c2N2)C2=O)c(cccc2)c2N1","2.7",0,0
+"Domperidone","O=C1N(CCCN(CC2)CCC2N(c(ccc(Cl)c2)c2N2)C2=O)c(cccc2)c2N1","2.7",1,97
+"Domperidone","O=C1N(CCCN(CC2)CCC2N(c(ccc(Cl)c2)c2N2)C2=O)c(cccc2)c2N1","4.5",0,0
+"Domperidone","O=C1N(CCCN(CC2)CCC2N(c(ccc(Cl)c2)c2N2)C2=O)c(cccc2)c2N1","4.5",1,90.5
+"Domperidone","O=C1N(CCCN(CC2)CCC2N(c(ccc(Cl)c2)c2N2)C2=O)c(cccc2)c2N1","6.5",0,0
+"Domperidone","O=C1N(CCCN(CC2)CCC2N(c(ccc(Cl)c2)c2N2)C2=O)c(cccc2)c2N1","6.5",1,44.4
+"Domperidone","O=C1N(CCCN(CC2)CCC2N(c(ccc(Cl)c2)c2N2)C2=O)c(cccc2)c2N1","7.4",0,0
+"Domperidone","O=C1N(CCCN(CC2)CCC2N(c(ccc(Cl)c2)c2N2)C2=O)c(cccc2)c2N1","7.4",1,0
+"Emetine ","CCC1C(CC2NCCc(cc3OC)c2cc3OC)CC(c(c(CC2)c3)cc(OC)c3OC)N2C1","2.7",0,0
+"Emetine ","CCC1C(CC2NCCc(cc3OC)c2cc3OC)CC(c(c(CC2)c3)cc(OC)c3OC)N2C1","2.7",1,100
+"Emetine ","CCC1C(CC2NCCc(cc3OC)c2cc3OC)CC(c(c(CC2)c3)cc(OC)c3OC)N2C1","4.5",0,0
+"Emetine ","CCC1C(CC2NCCc(cc3OC)c2cc3OC)CC(c(c(CC2)c3)cc(OC)c3OC)N2C1","4.5",1,76.2
+"Emetine ","CCC1C(CC2NCCc(cc3OC)c2cc3OC)CC(c(c(CC2)c3)cc(OC)c3OC)N2C1","6.5",0,0
+"Emetine ","CCC1C(CC2NCCc(cc3OC)c2cc3OC)CC(c(c(CC2)c3)cc(OC)c3OC)N2C1","6.5",1,36.8
+"Emetine ","CCC1C(CC2NCCc(cc3OC)c2cc3OC)CC(c(c(CC2)c3)cc(OC)c3OC)N2C1","7.4",0,0
+"Emetine ","CCC1C(CC2NCCc(cc3OC)c2cc3OC)CC(c(c(CC2)c3)cc(OC)c3OC)N2C1","7.4",1,14.7
+"Enalapril","CCOC(C(CCc1ccccc1)NC(C)C(N(CCC1)C1C(O)=O)=O)=O","2.7",0,0
+"Enalapril","CCOC(C(CCc1ccccc1)NC(C)C(N(CCC1)C1C(O)=O)=O)=O","2.7",1,0
+"Enalapril","CCOC(C(CCc1ccccc1)NC(C)C(N(CCC1)C1C(O)=O)=O)=O","4.5",0,0
+"Enalapril","CCOC(C(CCc1ccccc1)NC(C)C(N(CCC1)C1C(O)=O)=O)=O","4.5",1,0
+"Enalapril","CCOC(C(CCc1ccccc1)NC(C)C(N(CCC1)C1C(O)=O)=O)=O","6.5",0,0
+"Enalapril","CCOC(C(CCc1ccccc1)NC(C)C(N(CCC1)C1C(O)=O)=O)=O","6.5",1,0
+"Enalapril","CCOC(C(CCc1ccccc1)NC(C)C(N(CCC1)C1C(O)=O)=O)=O","7.4",0,90.6
+"Enalapril","CCOC(C(CCc1ccccc1)NC(C)C(N(CCC1)C1C(O)=O)=O)=O","7.4",1,85.4
+"Enoxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1nc(N1CCNCC1)c2F","2.7",0,0
+"Enoxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1nc(N1CCNCC1)c2F","2.7",1,0
+"Enoxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1nc(N1CCNCC1)c2F","4.5",0,0
+"Enoxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1nc(N1CCNCC1)c2F","4.5",1,10
+"Enoxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1nc(N1CCNCC1)c2F","6.5",0,0
+"Enoxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1nc(N1CCNCC1)c2F","6.5",1,75.2
+"Enoxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1nc(N1CCNCC1)c2F","7.4",0,0
+"Enoxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1nc(N1CCNCC1)c2F","7.4",1,0
+"Ehopropazine","CCN(CC)C(C)CN1c(cccc2)c2Sc2c1cccc2","2.7",0,0
+"Ehopropazine","CCN(CC)C(C)CN1c(cccc2)c2Sc2c1cccc2","2.7",1,100
+"Ehopropazine","CCN(CC)C(C)CN1c(cccc2)c2Sc2c1cccc2","4.5",0,60.5
+"Ehopropazine","CCN(CC)C(C)CN1c(cccc2)c2Sc2c1cccc2","4.5",1,100
+"Ehopropazine","CCN(CC)C(C)CN1c(cccc2)c2Sc2c1cccc2","6.5",0,0
+"Ehopropazine","CCN(CC)C(C)CN1c(cccc2)c2Sc2c1cccc2","6.5",1,100
+"Ehopropazine","CCN(CC)C(C)CN1c(cccc2)c2Sc2c1cccc2","7.4",0,0
+"Ehopropazine","CCN(CC)C(C)CN1c(cccc2)c2Sc2c1cccc2","7.4",1,23.8
+"Famotidine","NC(CCSCc1csc(N=C(N)N)n1)=NS(N)(=O)=O","2.7",0,0
+"Famotidine","NC(CCSCc1csc(N=C(N)N)n1)=NS(N)(=O)=O","2.7",1,100
+"Famotidine","NC(CCSCc1csc(N=C(N)N)n1)=NS(N)(=O)=O","4.5",0,0
+"Famotidine","NC(CCSCc1csc(N=C(N)N)n1)=NS(N)(=O)=O","4.5",1,100
+"Famotidine","NC(CCSCc1csc(N=C(N)N)n1)=NS(N)(=O)=O","6.5",0,100
+"Famotidine","NC(CCSCc1csc(N=C(N)N)n1)=NS(N)(=O)=O","6.5",1,100
+"Famotidine","NC(CCSCc1csc(N=C(N)N)n1)=NS(N)(=O)=O","7.4",0,55.5
+"Famotidine","NC(CCSCc1csc(N=C(N)N)n1)=NS(N)(=O)=O","7.4",1,100
+"Fenoterol","CC(Cc(cc1)ccc1O)NCC(c1cc(O)cc(O)c1)O","2.7",0,0
+"Fenoterol","CC(Cc(cc1)ccc1O)NCC(c1cc(O)cc(O)c1)O","2.7",1,0
+"Fenoterol","CC(Cc(cc1)ccc1O)NCC(c1cc(O)cc(O)c1)O","4.5",0,0
+"Fenoterol","CC(Cc(cc1)ccc1O)NCC(c1cc(O)cc(O)c1)O","4.5",1,100
+"Fenoterol","CC(Cc(cc1)ccc1O)NCC(c1cc(O)cc(O)c1)O","6.5",0,100
+"Fenoterol","CC(Cc(cc1)ccc1O)NCC(c1cc(O)cc(O)c1)O","6.5",1,100
+"Fenoterol","CC(Cc(cc1)ccc1O)NCC(c1cc(O)cc(O)c1)O","7.4",0,100
+"Fenoterol","CC(Cc(cc1)ccc1O)NCC(c1cc(O)cc(O)c1)O","7.4",1,100
+"Fentanyl","CCC(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O","2.7",0,0
+"Fentanyl","CCC(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O","2.7",1,0
+"Fentanyl","CCC(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O","4.5",0,0
+"Fentanyl","CCC(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O","4.5",1,0
+"Fentanyl","CCC(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O","6.5",0,0
+"Fentanyl","CCC(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O","6.5",1,0
+"Fentanyl","CCC(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O","7.4",0,0
+"Fentanyl","CCC(N(C1CCN(CCc2ccccc2)CC1)c1ccccc1)=O","7.4",1,0
+"Fexofenadine","CC(C)(C(O)=O)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","2.7",0,0
+"Fexofenadine","CC(C)(C(O)=O)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","2.7",1,21.5
+"Fexofenadine","CC(C)(C(O)=O)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","4.5",0,0
+"Fexofenadine","CC(C)(C(O)=O)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","4.5",1,27.8
+"Fexofenadine","CC(C)(C(O)=O)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","6.5",0,0
+"Fexofenadine","CC(C)(C(O)=O)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","6.5",1,27.1
+"Fexofenadine","CC(C)(C(O)=O)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","7.4",0,0
+"Fexofenadine","CC(C)(C(O)=O)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","7.4",1,0
+"Flunarizium","Fc1ccc(C(c(cc2)ccc2F)N2CCN(CC=Cc3ccccc3)CC2)cc1","2.7",0,0
+"Flunarizium","Fc1ccc(C(c(cc2)ccc2F)N2CCN(CC=Cc3ccccc3)CC2)cc1","2.7",1,0
+"Flunarizium","Fc1ccc(C(c(cc2)ccc2F)N2CCN(CC=Cc3ccccc3)CC2)cc1","4.5",0,0
+"Flunarizium","Fc1ccc(C(c(cc2)ccc2F)N2CCN(CC=Cc3ccccc3)CC2)cc1","4.5",1,70.7
+"Flunarizium","Fc1ccc(C(c(cc2)ccc2F)N2CCN(CC=Cc3ccccc3)CC2)cc1","6.5",0,0
+"Flunarizium","Fc1ccc(C(c(cc2)ccc2F)N2CCN(CC=Cc3ccccc3)CC2)cc1","6.5",1,33.3
+"Flunarizium","Fc1ccc(C(c(cc2)ccc2F)N2CCN(CC=Cc3ccccc3)CC2)cc1","7.4",0,0
+"Flunarizium","Fc1ccc(C(c(cc2)ccc2F)N2CCN(CC=Cc3ccccc3)CC2)cc1","7.4",1,0
+"Fluoxetine","CNCCC(c1ccccc1)Oc1ccc(C(F)(F)F)cc1","2.7",0,0
+"Fluoxetine","CNCCC(c1ccccc1)Oc1ccc(C(F)(F)F)cc1","2.7",1,0
+"Fluoxetine","CNCCC(c1ccccc1)Oc1ccc(C(F)(F)F)cc1","4.5",0,0
+"Fluoxetine","CNCCC(c1ccccc1)Oc1ccc(C(F)(F)F)cc1","4.5",1,0
+"Fluoxetine","CNCCC(c1ccccc1)Oc1ccc(C(F)(F)F)cc1","6.5",0,0
+"Fluoxetine","CNCCC(c1ccccc1)Oc1ccc(C(F)(F)F)cc1","6.5",1,0
+"Fluoxetine","CNCCC(c1ccccc1)Oc1ccc(C(F)(F)F)cc1","7.4",0,0
+"Fluoxetine","CNCCC(c1ccccc1)Oc1ccc(C(F)(F)F)cc1","7.4",1,0
+"Fluphenazine","OCCN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","2.7",0,0
+"Fluphenazine","OCCN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","2.7",1,100
+"Fluphenazine","OCCN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","4.5",0,0
+"Fluphenazine","OCCN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","4.5",1,100
+"Fluphenazine","OCCN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","6.5",0,0
+"Fluphenazine","OCCN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","6.5",1,69.9
+"Fluphenazine","OCCN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","7.4",0,0
+"Fluphenazine","OCCN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","7.4",1,0
+"Furosemid ","NS(c(cc(C(O)=O)c(NCc1ccco1)c1)c1Cl)(=O)=O","2.7",0,0
+"Furosemid ","NS(c(cc(C(O)=O)c(NCc1ccco1)c1)c1Cl)(=O)=O","2.7",1,55.6
+"Furosemid ","NS(c(cc(C(O)=O)c(NCc1ccco1)c1)c1Cl)(=O)=O","4.5",0,0
+"Furosemid ","NS(c(cc(C(O)=O)c(NCc1ccco1)c1)c1Cl)(=O)=O","4.5",1,55.6
+"Furosemid ","NS(c(cc(C(O)=O)c(NCc1ccco1)c1)c1Cl)(=O)=O","6.5",0,0
+"Furosemid ","NS(c(cc(C(O)=O)c(NCc1ccco1)c1)c1Cl)(=O)=O","6.5",1,67.7
+"Furosemid ","NS(c(cc(C(O)=O)c(NCc1ccco1)c1)c1Cl)(=O)=O","7.4",0,0
+"Furosemid ","NS(c(cc(C(O)=O)c(NCc1ccco1)c1)c1Cl)(=O)=O","7.4",1,0
+"Glybenclamide","COc(ccc(Cl)c1)c1C(NCCc(cc1)ccc1S(NC(NC1CCCCC1)=O)(=O)=O)=O","2.7",0,0
+"Glybenclamide","COc(ccc(Cl)c1)c1C(NCCc(cc1)ccc1S(NC(NC1CCCCC1)=O)(=O)=O)=O","2.7",1,0
+"Glybenclamide","COc(ccc(Cl)c1)c1C(NCCc(cc1)ccc1S(NC(NC1CCCCC1)=O)(=O)=O)=O","4.5",0,0
+"Glybenclamide","COc(ccc(Cl)c1)c1C(NCCc(cc1)ccc1S(NC(NC1CCCCC1)=O)(=O)=O)=O","4.5",1,0
+"Glybenclamide","COc(ccc(Cl)c1)c1C(NCCc(cc1)ccc1S(NC(NC1CCCCC1)=O)(=O)=O)=O","6.5",0,0
+"Glybenclamide","COc(ccc(Cl)c1)c1C(NCCc(cc1)ccc1S(NC(NC1CCCCC1)=O)(=O)=O)=O","6.5",1,0
+"Glybenclamide","COc(ccc(Cl)c1)c1C(NCCc(cc1)ccc1S(NC(NC1CCCCC1)=O)(=O)=O)=O","7.4",0,0
+"Glybenclamide","COc(ccc(Cl)c1)c1C(NCCc(cc1)ccc1S(NC(NC1CCCCC1)=O)(=O)=O)=O","7.4",1,0
+"Griseofulvine","CC(CC(C=C1OC)=O)C1(C1=O)Oc2c1c(OC)cc(OC)c2Cl","2.7",0,0
+"Griseofulvine","CC(CC(C=C1OC)=O)C1(C1=O)Oc2c1c(OC)cc(OC)c2Cl","2.7",1,0
+"Griseofulvine","CC(CC(C=C1OC)=O)C1(C1=O)Oc2c1c(OC)cc(OC)c2Cl","4.5",0,0
+"Griseofulvine","CC(CC(C=C1OC)=O)C1(C1=O)Oc2c1c(OC)cc(OC)c2Cl","4.5",1,0
+"Griseofulvine","CC(CC(C=C1OC)=O)C1(C1=O)Oc2c1c(OC)cc(OC)c2Cl","6.5",0,0
+"Griseofulvine","CC(CC(C=C1OC)=O)C1(C1=O)Oc2c1c(OC)cc(OC)c2Cl","6.5",1,0
+"Griseofulvine","CC(CC(C=C1OC)=O)C1(C1=O)Oc2c1c(OC)cc(OC)c2Cl","7.4",0,0
+"Griseofulvine","CC(CC(C=C1OC)=O)C1(C1=O)Oc2c1c(OC)cc(OC)c2Cl","7.4",1,0
+"Haloperidol  ","OC1(CCN(CCCC(c(cc2)ccc2F)=O)CC1)c(cc1)ccc1Cl","2.7",0,0
+"Haloperidol  ","OC1(CCN(CCCC(c(cc2)ccc2F)=O)CC1)c(cc1)ccc1Cl","2.7",1,0
+"Haloperidol  ","OC1(CCN(CCCC(c(cc2)ccc2F)=O)CC1)c(cc1)ccc1Cl","4.5",0,0
+"Haloperidol  ","OC1(CCN(CCCC(c(cc2)ccc2F)=O)CC1)c(cc1)ccc1Cl","4.5",1,30.6
+"Haloperidol  ","OC1(CCN(CCCC(c(cc2)ccc2F)=O)CC1)c(cc1)ccc1Cl","6.5",0,0
+"Haloperidol  ","OC1(CCN(CCCC(c(cc2)ccc2F)=O)CC1)c(cc1)ccc1Cl","6.5",1,32.2
+"Haloperidol  ","OC1(CCN(CCCC(c(cc2)ccc2F)=O)CC1)c(cc1)ccc1Cl","7.4",0,0
+"Haloperidol  ","OC1(CCN(CCCC(c(cc2)ccc2F)=O)CC1)c(cc1)ccc1Cl","7.4",1,0
+"Hydrocortisone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2(C(CO)=O)O","2.7",0,0
+"Hydrocortisone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2(C(CO)=O)O","2.7",1,0
+"Hydrocortisone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2(C(CO)=O)O","4.5",0,0
+"Hydrocortisone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2(C(CO)=O)O","4.5",1,0
+"Hydrocortisone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2(C(CO)=O)O","6.5",0,0
+"Hydrocortisone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2(C(CO)=O)O","6.5",1,0
+"Hydrocortisone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2(C(CO)=O)O","7.4",0,0
+"Hydrocortisone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2(C(CO)=O)O","7.4",1,0
+"Hydroxyzine","OCCOCCN(CC1)CCN1C(c1ccccc1)c(cc1)ccc1Cl","2.7",0,0
+"Hydroxyzine","OCCOCCN(CC1)CCN1C(c1ccccc1)c(cc1)ccc1Cl","2.7",1,0
+"Hydroxyzine","OCCOCCN(CC1)CCN1C(c1ccccc1)c(cc1)ccc1Cl","4.5",0,0
+"Hydroxyzine","OCCOCCN(CC1)CCN1C(c1ccccc1)c(cc1)ccc1Cl","4.5",1,8.5
+"Hydroxyzine","OCCOCCN(CC1)CCN1C(c1ccccc1)c(cc1)ccc1Cl","6.5",0,0
+"Hydroxyzine","OCCOCCN(CC1)CCN1C(c1ccccc1)c(cc1)ccc1Cl","6.5",1,16.5
+"Hydroxyzine","OCCOCCN(CC1)CCN1C(c1ccccc1)c(cc1)ccc1Cl","7.4",0,0
+"Hydroxyzine","OCCOCCN(CC1)CCN1C(c1ccccc1)c(cc1)ccc1Cl","7.4",1,0
+"Idarubicin","CC(C(C(C1)N)O)OC1OC(CC(C1)(C(C)=O)O)c(c(O)c2C(c3c4cccc3)=O)c1c(O)c2C4=O","2.7",0,0
+"Idarubicin","CC(C(C(C1)N)O)OC1OC(CC(C1)(C(C)=O)O)c(c(O)c2C(c3c4cccc3)=O)c1c(O)c2C4=O","2.7",1,100
+"Idarubicin","CC(C(C(C1)N)O)OC1OC(CC(C1)(C(C)=O)O)c(c(O)c2C(c3c4cccc3)=O)c1c(O)c2C4=O","4.5",0,0
+"Idarubicin","CC(C(C(C1)N)O)OC1OC(CC(C1)(C(C)=O)O)c(c(O)c2C(c3c4cccc3)=O)c1c(O)c2C4=O","4.5",1,100
+"Idarubicin","CC(C(C(C1)N)O)OC1OC(CC(C1)(C(C)=O)O)c(c(O)c2C(c3c4cccc3)=O)c1c(O)c2C4=O","6.5",0,0
+"Idarubicin","CC(C(C(C1)N)O)OC1OC(CC(C1)(C(C)=O)O)c(c(O)c2C(c3c4cccc3)=O)c1c(O)c2C4=O","6.5",1,80
+"Idarubicin","CC(C(C(C1)N)O)OC1OC(CC(C1)(C(C)=O)O)c(c(O)c2C(c3c4cccc3)=O)c1c(O)c2C4=O","7.4",0,100
+"Idarubicin","CC(C(C(C1)N)O)OC1OC(CC(C1)(C(C)=O)O)c(c(O)c2C(c3c4cccc3)=O)c1c(O)c2C4=O","7.4",1,100
+"Indomethacin","Cc1c(CC(O)=O)c(cc(cc2)OC)c2n1C(c(cc1)ccc1Cl)=O","2.7",0,0
+"Indomethacin","Cc1c(CC(O)=O)c(cc(cc2)OC)c2n1C(c(cc1)ccc1Cl)=O","2.7",1,100
+"Indomethacin","Cc1c(CC(O)=O)c(cc(cc2)OC)c2n1C(c(cc1)ccc1Cl)=O","4.5",0,0
+"Indomethacin","Cc1c(CC(O)=O)c(cc(cc2)OC)c2n1C(c(cc1)ccc1Cl)=O","4.5",1,51.7
+"Indomethacin","Cc1c(CC(O)=O)c(cc(cc2)OC)c2n1C(c(cc1)ccc1Cl)=O","6.5",0,68.6
+"Indomethacin","Cc1c(CC(O)=O)c(cc(cc2)OC)c2n1C(c(cc1)ccc1Cl)=O","6.5",1,61
+"Indomethacin","Cc1c(CC(O)=O)c(cc(cc2)OC)c2n1C(c(cc1)ccc1Cl)=O","7.4",0,100
+"Indomethacin","Cc1c(CC(O)=O)c(cc(cc2)OC)c2n1C(c(cc1)ccc1Cl)=O","7.4",1,100
+"Indoramine","O=C(c1ccccc1)NC1CCN(CCc2c[nH]c3c2cccc3)CC1","2.7",0,0
+"Indoramine","O=C(c1ccccc1)NC1CCN(CCc2c[nH]c3c2cccc3)CC1","2.7",1,100
+"Indoramine","O=C(c1ccccc1)NC1CCN(CCc2c[nH]c3c2cccc3)CC1","4.5",0,0
+"Indoramine","O=C(c1ccccc1)NC1CCN(CCc2c[nH]c3c2cccc3)CC1","4.5",1,100
+"Indoramine","O=C(c1ccccc1)NC1CCN(CCc2c[nH]c3c2cccc3)CC1","6.5",0,0
+"Indoramine","O=C(c1ccccc1)NC1CCN(CCc2c[nH]c3c2cccc3)CC1","6.5",1,97.4
+"Indoramine","O=C(c1ccccc1)NC1CCN(CCc2c[nH]c3c2cccc3)CC1","7.4",0,0
+"Indoramine","O=C(c1ccccc1)NC1CCN(CCc2c[nH]c3c2cccc3)CC1","7.4",1,61
+"Irbesartan ","CCCCC(N1Cc(cc2)ccc2-c(cccc2)c2-c2n[nH]nn2)=NC2(CCCC2)C1=O","2.7",0,0
+"Irbesartan ","CCCCC(N1Cc(cc2)ccc2-c(cccc2)c2-c2n[nH]nn2)=NC2(CCCC2)C1=O","2.7",1,0
+"Irbesartan ","CCCCC(N1Cc(cc2)ccc2-c(cccc2)c2-c2n[nH]nn2)=NC2(CCCC2)C1=O","4.5",0,0
+"Irbesartan ","CCCCC(N1Cc(cc2)ccc2-c(cccc2)c2-c2n[nH]nn2)=NC2(CCCC2)C1=O","4.5",1,0
+"Irbesartan ","CCCCC(N1Cc(cc2)ccc2-c(cccc2)c2-c2n[nH]nn2)=NC2(CCCC2)C1=O","6.5",0,0
+"Irbesartan ","CCCCC(N1Cc(cc2)ccc2-c(cccc2)c2-c2n[nH]nn2)=NC2(CCCC2)C1=O","6.5",1,0
+"Irbesartan ","CCCCC(N1Cc(cc2)ccc2-c(cccc2)c2-c2n[nH]nn2)=NC2(CCCC2)C1=O","7.4",0,0
+"Irbesartan ","CCCCC(N1Cc(cc2)ccc2-c(cccc2)c2-c2n[nH]nn2)=NC2(CCCC2)C1=O","7.4",1,0
+"Isoxicam  ","Cc1cc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)no1","2.7",0,0
+"Isoxicam  ","Cc1cc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)no1","2.7",1,70.4
+"Isoxicam  ","Cc1cc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)no1","4.5",0,0
+"Isoxicam  ","Cc1cc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)no1","4.5",1,100
+"Isoxicam  ","Cc1cc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)no1","6.5",0,0
+"Isoxicam  ","Cc1cc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)no1","6.5",1,36.1
+"Isoxicam  ","Cc1cc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)no1","7.4",0,0
+"Isoxicam  ","Cc1cc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)no1","7.4",1,0
+"Itraconazole  ","CCC(C)N(C1=O)N=CN1c(cc1)ccc1N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2ncnc2)(c(ccc(Cl)c2)c2Cl)OC1","2.7",0,0
+"Itraconazole  ","CCC(C)N(C1=O)N=CN1c(cc1)ccc1N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2ncnc2)(c(ccc(Cl)c2)c2Cl)OC1","2.7",1,100
+"Itraconazole  ","CCC(C)N(C1=O)N=CN1c(cc1)ccc1N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2ncnc2)(c(ccc(Cl)c2)c2Cl)OC1","4.5",0,0
+"Itraconazole  ","CCC(C)N(C1=O)N=CN1c(cc1)ccc1N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2ncnc2)(c(ccc(Cl)c2)c2Cl)OC1","4.5",1,18.4
+"Itraconazole  ","CCC(C)N(C1=O)N=CN1c(cc1)ccc1N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2ncnc2)(c(ccc(Cl)c2)c2Cl)OC1","6.5",0,0
+"Itraconazole  ","CCC(C)N(C1=O)N=CN1c(cc1)ccc1N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2ncnc2)(c(ccc(Cl)c2)c2Cl)OC1","6.5",1,0
+"Itraconazole  ","CCC(C)N(C1=O)N=CN1c(cc1)ccc1N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2ncnc2)(c(ccc(Cl)c2)c2Cl)OC1","7.4",0,0
+"Itraconazole  ","CCC(C)N(C1=O)N=CN1c(cc1)ccc1N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2ncnc2)(c(ccc(Cl)c2)c2Cl)OC1","7.4",1,7.2
+"Ketoconazole","CC(N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2cncc2)(c(ccc(Cl)c2)c2Cl)OC1)=O","2.7",0,0
+"Ketoconazole","CC(N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2cncc2)(c(ccc(Cl)c2)c2Cl)OC1)=O","2.7",1,100
+"Ketoconazole","CC(N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2cncc2)(c(ccc(Cl)c2)c2Cl)OC1)=O","4.5",0,0
+"Ketoconazole","CC(N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2cncc2)(c(ccc(Cl)c2)c2Cl)OC1)=O","4.5",1,100
+"Ketoconazole","CC(N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2cncc2)(c(ccc(Cl)c2)c2Cl)OC1)=O","6.5",0,0
+"Ketoconazole","CC(N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2cncc2)(c(ccc(Cl)c2)c2Cl)OC1)=O","6.5",1,45.5
+"Ketoconazole","CC(N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2cncc2)(c(ccc(Cl)c2)c2Cl)OC1)=O","7.4",0,0
+"Ketoconazole","CC(N(CC1)CCN1c(cc1)ccc1OCC1OC(Cn2cncc2)(c(ccc(Cl)c2)c2Cl)OC1)=O","7.4",1,29.7
+"Labetalol","CC(CCc1ccccc1)NCC(c(cc1)cc(C(N)=O)c1O)O","2.7",0,0
+"Labetalol","CC(CCc1ccccc1)NCC(c(cc1)cc(C(N)=O)c1O)O","2.7",1,74.5
+"Labetalol","CC(CCc1ccccc1)NCC(c(cc1)cc(C(N)=O)c1O)O","4.5",0,0
+"Labetalol","CC(CCc1ccccc1)NCC(c(cc1)cc(C(N)=O)c1O)O","4.5",1,83.4
+"Labetalol","CC(CCc1ccccc1)NCC(c(cc1)cc(C(N)=O)c1O)O","6.5",0,0
+"Labetalol","CC(CCc1ccccc1)NCC(c(cc1)cc(C(N)=O)c1O)O","6.5",1,64.5
+"Labetalol","CC(CCc1ccccc1)NCC(c(cc1)cc(C(N)=O)c1O)O","7.4",0,0
+"Labetalol","CC(CCc1ccccc1)NCC(c(cc1)cc(C(N)=O)c1O)O","7.4",1,0
+"Lansoprazole","Cc(c(CS(c1nc(cccc2)c2[nH]1)=O)ncc1)c1OCC(F)(F)F","2.7",0,71.5
+"Lansoprazole","Cc(c(CS(c1nc(cccc2)c2[nH]1)=O)ncc1)c1OCC(F)(F)F","2.7",1,78.4
+"Lansoprazole","Cc(c(CS(c1nc(cccc2)c2[nH]1)=O)ncc1)c1OCC(F)(F)F","4.5",0,87.6
+"Lansoprazole","Cc(c(CS(c1nc(cccc2)c2[nH]1)=O)ncc1)c1OCC(F)(F)F","4.5",1,96.4
+"Lansoprazole","Cc(c(CS(c1nc(cccc2)c2[nH]1)=O)ncc1)c1OCC(F)(F)F","6.5",0,0
+"Lansoprazole","Cc(c(CS(c1nc(cccc2)c2[nH]1)=O)ncc1)c1OCC(F)(F)F","6.5",1,3.1
+"Lansoprazole","Cc(c(CS(c1nc(cccc2)c2[nH]1)=O)ncc1)c1OCC(F)(F)F","7.4",0,0
+"Lansoprazole","Cc(c(CS(c1nc(cccc2)c2[nH]1)=O)ncc1)c1OCC(F)(F)F","7.4",1,0
+"Lomefloxacine","CCN(C=C1C(O)=O)c(c(F)c(c(F)c2)N3CC(C)NCC3)c2C1=O","2.7",0,0
+"Lomefloxacine","CCN(C=C1C(O)=O)c(c(F)c(c(F)c2)N3CC(C)NCC3)c2C1=O","2.7",1,0
+"Lomefloxacine","CCN(C=C1C(O)=O)c(c(F)c(c(F)c2)N3CC(C)NCC3)c2C1=O","4.5",0,0
+"Lomefloxacine","CCN(C=C1C(O)=O)c(c(F)c(c(F)c2)N3CC(C)NCC3)c2C1=O","4.5",1,0
+"Lomefloxacine","CCN(C=C1C(O)=O)c(c(F)c(c(F)c2)N3CC(C)NCC3)c2C1=O","6.5",0,0
+"Lomefloxacine","CCN(C=C1C(O)=O)c(c(F)c(c(F)c2)N3CC(C)NCC3)c2C1=O","6.5",1,0
+"Lomefloxacine","CCN(C=C1C(O)=O)c(c(F)c(c(F)c2)N3CC(C)NCC3)c2C1=O","7.4",0,0
+"Lomefloxacine","CCN(C=C1C(O)=O)c(c(F)c(c(F)c2)N3CC(C)NCC3)c2C1=O","7.4",1,0
+"Lornoxicam","CN(C(C(Nc1ncccc1)=O)=C(c(s1)c2cc1Cl)O)S2(=O)=O","2.7",0,0
+"Lornoxicam","CN(C(C(Nc1ncccc1)=O)=C(c(s1)c2cc1Cl)O)S2(=O)=O","2.7",1,100
+"Lornoxicam","CN(C(C(Nc1ncccc1)=O)=C(c(s1)c2cc1Cl)O)S2(=O)=O","4.5",0,1.5
+"Lornoxicam","CN(C(C(Nc1ncccc1)=O)=C(c(s1)c2cc1Cl)O)S2(=O)=O","4.5",1,100
+"Lornoxicam","CN(C(C(Nc1ncccc1)=O)=C(c(s1)c2cc1Cl)O)S2(=O)=O","6.5",0,0
+"Lornoxicam","CN(C(C(Nc1ncccc1)=O)=C(c(s1)c2cc1Cl)O)S2(=O)=O","6.5",1,56.5
+"Lornoxicam","CN(C(C(Nc1ncccc1)=O)=C(c(s1)c2cc1Cl)O)S2(=O)=O","7.4",0,0
+"Lornoxicam","CN(C(C(Nc1ncccc1)=O)=C(c(s1)c2cc1Cl)O)S2(=O)=O","7.4",1,0
+"Mefloquine","OC(C1NCCCC1)c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12","2.7",0,0
+"Mefloquine","OC(C1NCCCC1)c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12","2.7",1,0
+"Mefloquine","OC(C1NCCCC1)c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12","4.5",0,0
+"Mefloquine","OC(C1NCCCC1)c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12","4.5",1,0
+"Mefloquine","OC(C1NCCCC1)c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12","6.5",0,0
+"Mefloquine","OC(C1NCCCC1)c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12","6.5",1,0
+"Mefloquine","OC(C1NCCCC1)c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12","7.4",0,0
+"Mefloquine","OC(C1NCCCC1)c1cc(C(F)(F)F)nc2c(C(F)(F)F)cccc12","7.4",1,0
+"Meloxicam ","Cc1cnc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)s1","2.7",0,0
+"Meloxicam ","Cc1cnc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)s1","2.7",1,57.4
+"Meloxicam ","Cc1cnc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)s1","4.5",0,0
+"Meloxicam ","Cc1cnc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)s1","4.5",1,100
+"Meloxicam ","Cc1cnc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)s1","6.5",0,0
+"Meloxicam ","Cc1cnc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)s1","6.5",1,92.9
+"Meloxicam ","Cc1cnc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)s1","7.4",0,0
+"Meloxicam ","Cc1cnc(NC(C(N(C)S(c2c3cccc2)(=O)=O)=C3O)=O)s1","7.4",1,0
+"Gallopamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC","2.7",0,0
+"Gallopamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC","2.7",1,91.8
+"Gallopamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC","4.5",0,0
+"Gallopamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC","4.5",1,100
+"Gallopamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC","6.5",0,0
+"Gallopamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC","6.5",1,10.1
+"Gallopamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC","7.4",0,0
+"Gallopamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C(=C2)OC)OC)OC","7.4",1,0
+"Moxifloxacin","COc(c(N1CC2NCCCC2C1)c(cc12)F)c2N(C2CC2)C=C(C(O)=O)C1=O","2.7",0,0
+"Moxifloxacin","COc(c(N1CC2NCCCC2C1)c(cc12)F)c2N(C2CC2)C=C(C(O)=O)C1=O","2.7",1,100
+"Moxifloxacin","COc(c(N1CC2NCCCC2C1)c(cc12)F)c2N(C2CC2)C=C(C(O)=O)C1=O","4.5",0,0
+"Moxifloxacin","COc(c(N1CC2NCCCC2C1)c(cc12)F)c2N(C2CC2)C=C(C(O)=O)C1=O","4.5",1,28.4
+"Moxifloxacin","COc(c(N1CC2NCCCC2C1)c(cc12)F)c2N(C2CC2)C=C(C(O)=O)C1=O","6.5",0,0
+"Moxifloxacin","COc(c(N1CC2NCCCC2C1)c(cc12)F)c2N(C2CC2)C=C(C(O)=O)C1=O","6.5",1,87.7
+"Moxifloxacin","COc(c(N1CC2NCCCC2C1)c(cc12)F)c2N(C2CC2)C=C(C(O)=O)C1=O","7.4",0,0
+"Moxifloxacin","COc(c(N1CC2NCCCC2C1)c(cc12)F)c2N(C2CC2)C=C(C(O)=O)C1=O","7.4",1,0
+"Naldolol/Solgol","CC(C)(C)NCC(COc1c(CC(C(C2)O)O)c2ccc1)O","2.7",0,0
+"Naldolol/Solgol","CC(C)(C)NCC(COc1c(CC(C(C2)O)O)c2ccc1)O","2.7",1,0
+"Naldolol/Solgol","CC(C)(C)NCC(COc1c(CC(C(C2)O)O)c2ccc1)O","4.5",0,0
+"Naldolol/Solgol","CC(C)(C)NCC(COc1c(CC(C(C2)O)O)c2ccc1)O","4.5",1,0
+"Naldolol/Solgol","CC(C)(C)NCC(COc1c(CC(C(C2)O)O)c2ccc1)O","6.5",0,0
+"Naldolol/Solgol","CC(C)(C)NCC(COc1c(CC(C(C2)O)O)c2ccc1)O","6.5",1,0
+"Naldolol/Solgol","CC(C)(C)NCC(COc1c(CC(C(C2)O)O)c2ccc1)O","7.4",0,0
+"Naldolol/Solgol","CC(C)(C)NCC(COc1c(CC(C(C2)O)O)c2ccc1)O","7.4",1,0
+"Nicergoline ","Cn1c2cccc(C3(C(C4)N(C)CC(COC(c5cc(Br)cnc5)=O)C3)OC)c2c4c1","2.7",0,0
+"Nicergoline ","Cn1c2cccc(C3(C(C4)N(C)CC(COC(c5cc(Br)cnc5)=O)C3)OC)c2c4c1","2.7",1,100
+"Nicergoline ","Cn1c2cccc(C3(C(C4)N(C)CC(COC(c5cc(Br)cnc5)=O)C3)OC)c2c4c1","4.5",0,0
+"Nicergoline ","Cn1c2cccc(C3(C(C4)N(C)CC(COC(c5cc(Br)cnc5)=O)C3)OC)c2c4c1","4.5",1,51.7
+"Nicergoline ","Cn1c2cccc(C3(C(C4)N(C)CC(COC(c5cc(Br)cnc5)=O)C3)OC)c2c4c1","6.5",0,100
+"Nicergoline ","Cn1c2cccc(C3(C(C4)N(C)CC(COC(c5cc(Br)cnc5)=O)C3)OC)c2c4c1","6.5",1,100
+"Nicergoline ","Cn1c2cccc(C3(C(C4)N(C)CC(COC(c5cc(Br)cnc5)=O)C3)OC)c2c4c1","7.4",0,68.8
+"Nicergoline ","Cn1c2cccc(C3(C(C4)N(C)CC(COC(c5cc(Br)cnc5)=O)C3)OC)c2c4c1","7.4",1,100
+"Niclosamide","[O-][N+](c(cc1)cc(Cl)c1NC(c(cc(cc1)Cl)c1O)=O)=O","2.7",0,0
+"Niclosamide","[O-][N+](c(cc1)cc(Cl)c1NC(c(cc(cc1)Cl)c1O)=O)=O","2.7",1,69.4
+"Niclosamide","[O-][N+](c(cc1)cc(Cl)c1NC(c(cc(cc1)Cl)c1O)=O)=O","4.5",0,0
+"Niclosamide","[O-][N+](c(cc1)cc(Cl)c1NC(c(cc(cc1)Cl)c1O)=O)=O","4.5",1,98.5
+"Niclosamide","[O-][N+](c(cc1)cc(Cl)c1NC(c(cc(cc1)Cl)c1O)=O)=O","6.5",0,0
+"Niclosamide","[O-][N+](c(cc1)cc(Cl)c1NC(c(cc(cc1)Cl)c1O)=O)=O","6.5",1,38.3
+"Niclosamide","[O-][N+](c(cc1)cc(Cl)c1NC(c(cc(cc1)Cl)c1O)=O)=O","7.4",0,0
+"Niclosamide","[O-][N+](c(cc1)cc(Cl)c1NC(c(cc(cc1)Cl)c1O)=O)=O","7.4",1,0
+"Nifedipine","CC(NC(C)=C(C1c(cccc2)c2[N+]([O-])=O)C(OC)=O)=C1C(OC)=O","2.7",0,36.8
+"Nifedipine","CC(NC(C)=C(C1c(cccc2)c2[N+]([O-])=O)C(OC)=O)=C1C(OC)=O","2.7",1,100
+"Nifedipine","CC(NC(C)=C(C1c(cccc2)c2[N+]([O-])=O)C(OC)=O)=C1C(OC)=O","4.5",0,55.7
+"Nifedipine","CC(NC(C)=C(C1c(cccc2)c2[N+]([O-])=O)C(OC)=O)=C1C(OC)=O","4.5",1,100
+"Nifedipine","CC(NC(C)=C(C1c(cccc2)c2[N+]([O-])=O)C(OC)=O)=C1C(OC)=O","6.5",0,100
+"Nifedipine","CC(NC(C)=C(C1c(cccc2)c2[N+]([O-])=O)C(OC)=O)=C1C(OC)=O","6.5",1,100
+"Nifedipine","CC(NC(C)=C(C1c(cccc2)c2[N+]([O-])=O)C(OC)=O)=C1C(OC)=O","7.4",0,43.5
+"Nifedipine","CC(NC(C)=C(C1c(cccc2)c2[N+]([O-])=O)C(OC)=O)=C1C(OC)=O","7.4",1,55.5
+"Nimesulide","CS(Nc(ccc([N+]([O-])=O)c1)c1Oc1ccccc1)(=O)=O","2.7",0,0
+"Nimesulide","CS(Nc(ccc([N+]([O-])=O)c1)c1Oc1ccccc1)(=O)=O","2.7",1,0
+"Nimesulide","CS(Nc(ccc([N+]([O-])=O)c1)c1Oc1ccccc1)(=O)=O","4.5",0,0
+"Nimesulide","CS(Nc(ccc([N+]([O-])=O)c1)c1Oc1ccccc1)(=O)=O","4.5",1,0
+"Nimesulide","CS(Nc(ccc([N+]([O-])=O)c1)c1Oc1ccccc1)(=O)=O","6.5",0,0
+"Nimesulide","CS(Nc(ccc([N+]([O-])=O)c1)c1Oc1ccccc1)(=O)=O","6.5",1,0
+"Nimesulide","CS(Nc(ccc([N+]([O-])=O)c1)c1Oc1ccccc1)(=O)=O","7.4",0,0
+"Nimesulide","CS(Nc(ccc([N+]([O-])=O)c1)c1Oc1ccccc1)(=O)=O","7.4",1,0
+"Norfloxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1cc(N1CCNCC1)c2F","2.7",0,0
+"Norfloxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1cc(N1CCNCC1)c2F","2.7",1,9
+"Norfloxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1cc(N1CCNCC1)c2F","4.5",0,0
+"Norfloxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1cc(N1CCNCC1)c2F","4.5",1,38.2
+"Norfloxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1cc(N1CCNCC1)c2F","6.5",0,0
+"Norfloxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1cc(N1CCNCC1)c2F","6.5",1,0
+"Norfloxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1cc(N1CCNCC1)c2F","7.4",0,0
+"Norfloxacin","CCN(C=C(C(O)=O)C(c1c2)=O)c1cc(N1CCNCC1)c2F","7.4",1,5
+"Ofloxacin","CC1N(C=C(C(O)=O)C(c2cc(F)c3N4CCN(C)CC4)=O)c2c3OC1","2.7",0,0
+"Ofloxacin","CC1N(C=C(C(O)=O)C(c2cc(F)c3N4CCN(C)CC4)=O)c2c3OC1","2.7",1,28.9
+"Ofloxacin","CC1N(C=C(C(O)=O)C(c2cc(F)c3N4CCN(C)CC4)=O)c2c3OC1","4.5",0,0
+"Ofloxacin","CC1N(C=C(C(O)=O)C(c2cc(F)c3N4CCN(C)CC4)=O)c2c3OC1","4.5",1,16.5
+"Ofloxacin","CC1N(C=C(C(O)=O)C(c2cc(F)c3N4CCN(C)CC4)=O)c2c3OC1","6.5",0,0
+"Ofloxacin","CC1N(C=C(C(O)=O)C(c2cc(F)c3N4CCN(C)CC4)=O)c2c3OC1","6.5",1,31.3
+"Ofloxacin","CC1N(C=C(C(O)=O)C(c2cc(F)c3N4CCN(C)CC4)=O)c2c3OC1","7.4",0,0
+"Ofloxacin","CC1N(C=C(C(O)=O)C(c2cc(F)c3N4CCN(C)CC4)=O)c2c3OC1","7.4",1,71.4
+"Omeprazole","Cc1cnc(CS(c2nc(ccc(OC)c3)c3[nH]2)=O)c(C)c1OC","2.7",0,100
+"Omeprazole","Cc1cnc(CS(c2nc(ccc(OC)c3)c3[nH]2)=O)c(C)c1OC","2.7",1,53.4
+"Omeprazole","Cc1cnc(CS(c2nc(ccc(OC)c3)c3[nH]2)=O)c(C)c1OC","4.5",0,100
+"Omeprazole","Cc1cnc(CS(c2nc(ccc(OC)c3)c3[nH]2)=O)c(C)c1OC","4.5",1,100
+"Omeprazole","Cc1cnc(CS(c2nc(ccc(OC)c3)c3[nH]2)=O)c(C)c1OC","6.5",0,0
+"Omeprazole","Cc1cnc(CS(c2nc(ccc(OC)c3)c3[nH]2)=O)c(C)c1OC","6.5",1,100
+"Omeprazole","Cc1cnc(CS(c2nc(ccc(OC)c3)c3[nH]2)=O)c(C)c1OC","7.4",0,13.3
+"Omeprazole","Cc1cnc(CS(c2nc(ccc(OC)c3)c3[nH]2)=O)c(C)c1OC","7.4",1,100
+"Oxybrupocaine ","CCCCOc(cc(cc1)C(OCC[NH+](CC)CC)=O)c1N","2.7",0,36.2
+"Oxybrupocaine ","CCCCOc(cc(cc1)C(OCC[NH+](CC)CC)=O)c1N","2.7",1,100
+"Oxybrupocaine ","CCCCOc(cc(cc1)C(OCC[NH+](CC)CC)=O)c1N","4.5",0,35.2
+"Oxybrupocaine ","CCCCOc(cc(cc1)C(OCC[NH+](CC)CC)=O)c1N","4.5",1,100
+"Oxybrupocaine ","CCCCOc(cc(cc1)C(OCC[NH+](CC)CC)=O)c1N","6.5",0,94.7
+"Oxybrupocaine ","CCCCOc(cc(cc1)C(OCC[NH+](CC)CC)=O)c1N","6.5",1,95.5
+"Oxybrupocaine ","CCCCOc(cc(cc1)C(OCC[NH+](CC)CC)=O)c1N","7.4",0,29.6
+"Oxybrupocaine ","CCCCOc(cc(cc1)C(OCC[NH+](CC)CC)=O)c1N","7.4",1,96
+"Oxyphenbutazone","CCCCC(C(N(c1ccccc1)N1c(cc2)ccc2O)=O)C1=O","2.7",0,0
+"Oxyphenbutazone","CCCCC(C(N(c1ccccc1)N1c(cc2)ccc2O)=O)C1=O","2.7",1,100
+"Oxyphenbutazone","CCCCC(C(N(c1ccccc1)N1c(cc2)ccc2O)=O)C1=O","4.5",0,0
+"Oxyphenbutazone","CCCCC(C(N(c1ccccc1)N1c(cc2)ccc2O)=O)C1=O","4.5",1,100
+"Oxyphenbutazone","CCCCC(C(N(c1ccccc1)N1c(cc2)ccc2O)=O)C1=O","6.5",0,0
+"Oxyphenbutazone","CCCCC(C(N(c1ccccc1)N1c(cc2)ccc2O)=O)C1=O","6.5",1,100
+"Oxyphenbutazone","CCCCC(C(N(c1ccccc1)N1c(cc2)ccc2O)=O)C1=O","7.4",0,0
+"Oxyphenbutazone","CCCCC(C(N(c1ccccc1)N1c(cc2)ccc2O)=O)C1=O","7.4",1,100
+"Papaverine","COc(ccc(Cc1c(cc(c(OC)c2)OC)c2ccn1)c1)c1OC","2.7",0,0
+"Papaverine","COc(ccc(Cc1c(cc(c(OC)c2)OC)c2ccn1)c1)c1OC","2.7",1,15.3
+"Papaverine","COc(ccc(Cc1c(cc(c(OC)c2)OC)c2ccn1)c1)c1OC","4.5",0,0
+"Papaverine","COc(ccc(Cc1c(cc(c(OC)c2)OC)c2ccn1)c1)c1OC","4.5",1,0
+"Papaverine","COc(ccc(Cc1c(cc(c(OC)c2)OC)c2ccn1)c1)c1OC","6.5",0,0
+"Papaverine","COc(ccc(Cc1c(cc(c(OC)c2)OC)c2ccn1)c1)c1OC","6.5",1,0
+"Papaverine","COc(ccc(Cc1c(cc(c(OC)c2)OC)c2ccn1)c1)c1OC","7.4",0,0
+"Papaverine","COc(ccc(Cc1c(cc(c(OC)c2)OC)c2ccn1)c1)c1OC","7.4",1,0
+"Pentamidine","NC(c(cc1)ccc1OCCCCCOc(cc1)ccc1C(N)=N)=N","2.7",0,0
+"Pentamidine","NC(c(cc1)ccc1OCCCCCOc(cc1)ccc1C(N)=N)=N","2.7",1,0
+"Pentamidine","NC(c(cc1)ccc1OCCCCCOc(cc1)ccc1C(N)=N)=N","4.5",0,0
+"Pentamidine","NC(c(cc1)ccc1OCCCCCOc(cc1)ccc1C(N)=N)=N","4.5",1,0
+"Pentamidine","NC(c(cc1)ccc1OCCCCCOc(cc1)ccc1C(N)=N)=N","6.5",0,0
+"Pentamidine","NC(c(cc1)ccc1OCCCCCOc(cc1)ccc1C(N)=N)=N","6.5",1,0
+"Pentamidine","NC(c(cc1)ccc1OCCCCCOc(cc1)ccc1C(N)=N)=N","7.4",0,0
+"Pentamidine","NC(c(cc1)ccc1OCCCCCOc(cc1)ccc1C(N)=N)=N","7.4",1,0
+"Phenserine","CC12c(cc(cc3)OC(Nc4ccccc4)=O)c3N(C)C1N(C)CC2","2.7",0,5.4
+"Phenserine","CC12c(cc(cc3)OC(Nc4ccccc4)=O)c3N(C)C1N(C)CC2","2.7",1,100
+"Phenserine","CC12c(cc(cc3)OC(Nc4ccccc4)=O)c3N(C)C1N(C)CC2","4.5",0,0
+"Phenserine","CC12c(cc(cc3)OC(Nc4ccccc4)=O)c3N(C)C1N(C)CC2","4.5",1,100
+"Phenserine","CC12c(cc(cc3)OC(Nc4ccccc4)=O)c3N(C)C1N(C)CC2","6.5",0,0
+"Phenserine","CC12c(cc(cc3)OC(Nc4ccccc4)=O)c3N(C)C1N(C)CC2","6.5",1,24.1
+"Phenserine","CC12c(cc(cc3)OC(Nc4ccccc4)=O)c3N(C)C1N(C)CC2","7.4",0,0
+"Phenserine","CC12c(cc(cc3)OC(Nc4ccccc4)=O)c3N(C)C1N(C)CC2","7.4",1,18.2
+"Phenylbutazone","CCCCC(C(N(c1ccccc1)N1c2ccccc2)=O)C1=O","2.7",0,0
+"Phenylbutazone","CCCCC(C(N(c1ccccc1)N1c2ccccc2)=O)C1=O","2.7",1,98.6
+"Phenylbutazone","CCCCC(C(N(c1ccccc1)N1c2ccccc2)=O)C1=O","4.5",0,64.6
+"Phenylbutazone","CCCCC(C(N(c1ccccc1)N1c2ccccc2)=O)C1=O","4.5",1,90.1
+"Phenylbutazone","CCCCC(C(N(c1ccccc1)N1c2ccccc2)=O)C1=O","6.5",0,0
+"Phenylbutazone","CCCCC(C(N(c1ccccc1)N1c2ccccc2)=O)C1=O","6.5",1,100
+"Phenylbutazone","CCCCC(C(N(c1ccccc1)N1c2ccccc2)=O)C1=O","7.4",0,0
+"Phenylbutazone","CCCCC(C(N(c1ccccc1)N1c2ccccc2)=O)C1=O","7.4",1,89.4
+"Pirenzepine  ","CN1CCN(CC(N(c2c3cccc2)c(nccc2)c2NC3=O)=O)CC1","2.7",0,0
+"Pirenzepine  ","CN1CCN(CC(N(c2c3cccc2)c(nccc2)c2NC3=O)=O)CC1","2.7",1,0
+"Pirenzepine  ","CN1CCN(CC(N(c2c3cccc2)c(nccc2)c2NC3=O)=O)CC1","4.5",0,0
+"Pirenzepine  ","CN1CCN(CC(N(c2c3cccc2)c(nccc2)c2NC3=O)=O)CC1","4.5",1,0
+"Pirenzepine  ","CN1CCN(CC(N(c2c3cccc2)c(nccc2)c2NC3=O)=O)CC1","6.5",0,0
+"Pirenzepine  ","CN1CCN(CC(N(c2c3cccc2)c(nccc2)c2NC3=O)=O)CC1","6.5",1,0
+"Pirenzepine  ","CN1CCN(CC(N(c2c3cccc2)c(nccc2)c2NC3=O)=O)CC1","7.4",0,0
+"Pirenzepine  ","CN1CCN(CC(N(c2c3cccc2)c(nccc2)c2NC3=O)=O)CC1","7.4",1,0
+"Piroxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2cccc1)O)S2(=O)=O","2.7",0,0
+"Piroxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2cccc1)O)S2(=O)=O","2.7",1,100
+"Piroxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2cccc1)O)S2(=O)=O","4.5",0,0
+"Piroxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2cccc1)O)S2(=O)=O","4.5",1,100
+"Piroxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2cccc1)O)S2(=O)=O","6.5",0,0
+"Piroxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2cccc1)O)S2(=O)=O","6.5",1,8.7
+"Piroxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2cccc1)O)S2(=O)=O","7.4",0,0
+"Piroxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2cccc1)O)S2(=O)=O","7.4",1,0
+"Prendisolone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(C=C1)C3=CC1=O)C2(C(CO)=O)O","2.7",0,0
+"Prendisolone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(C=C1)C3=CC1=O)C2(C(CO)=O)O","2.7",1,0
+"Prendisolone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(C=C1)C3=CC1=O)C2(C(CO)=O)O","4.5",0,0
+"Prendisolone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(C=C1)C3=CC1=O)C2(C(CO)=O)O","4.5",1,0
+"Prendisolone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(C=C1)C3=CC1=O)C2(C(CO)=O)O","6.5",0,0
+"Prendisolone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(C=C1)C3=CC1=O)C2(C(CO)=O)O","6.5",1,0
+"Prendisolone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(C=C1)C3=CC1=O)C2(C(CO)=O)O","7.4",0,0
+"Prendisolone","CC(CC1O)(C(CC2)C(CC3)C1C(C)(C=C1)C3=CC1=O)C2(C(CO)=O)O","7.4",1,0
+"Prochlorperazine","CN1CCN(CCCN2c(cc(cc3)Cl)c3Sc3c2cccc3)CC1","2.7",0,0
+"Prochlorperazine","CN1CCN(CCCN2c(cc(cc3)Cl)c3Sc3c2cccc3)CC1","2.7",1,100
+"Prochlorperazine","CN1CCN(CCCN2c(cc(cc3)Cl)c3Sc3c2cccc3)CC1","4.5",0,0
+"Prochlorperazine","CN1CCN(CCCN2c(cc(cc3)Cl)c3Sc3c2cccc3)CC1","4.5",1,100
+"Prochlorperazine","CN1CCN(CCCN2c(cc(cc3)Cl)c3Sc3c2cccc3)CC1","6.5",0,0
+"Prochlorperazine","CN1CCN(CCCN2c(cc(cc3)Cl)c3Sc3c2cccc3)CC1","6.5",1,49
+"Prochlorperazine","CN1CCN(CCCN2c(cc(cc3)Cl)c3Sc3c2cccc3)CC1","7.4",0,0
+"Prochlorperazine","CN1CCN(CCCN2c(cc(cc3)Cl)c3Sc3c2cccc3)CC1","7.4",1,5.9
+"Progesterone","CC(CC1)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2C(C)=O","2.7",0,0
+"Progesterone","CC(CC1)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2C(C)=O","2.7",1,0
+"Progesterone","CC(CC1)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2C(C)=O","4.5",0,0
+"Progesterone","CC(CC1)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2C(C)=O","4.5",1,0
+"Progesterone","CC(CC1)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2C(C)=O","6.5",0,0
+"Progesterone","CC(CC1)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2C(C)=O","6.5",1,0
+"Progesterone","CC(CC1)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2C(C)=O","7.4",0,0
+"Progesterone","CC(CC1)(C(CC2)C(CC3)C1C(C)(CC1)C3=CC1=O)C2C(C)=O","7.4",1,0
+"Propionylpromazine","CCC(c(cc1)cc2c1Sc(cccc1)c1N2CCCN(C)C)=O","2.7",0,0
+"Propionylpromazine","CCC(c(cc1)cc2c1Sc(cccc1)c1N2CCCN(C)C)=O","2.7",1,100
+"Propionylpromazine","CCC(c(cc1)cc2c1Sc(cccc1)c1N2CCCN(C)C)=O","4.5",0,0
+"Propionylpromazine","CCC(c(cc1)cc2c1Sc(cccc1)c1N2CCCN(C)C)=O","4.5",1,100
+"Propionylpromazine","CCC(c(cc1)cc2c1Sc(cccc1)c1N2CCCN(C)C)=O","6.5",0,0
+"Propionylpromazine","CCC(c(cc1)cc2c1Sc(cccc1)c1N2CCCN(C)C)=O","6.5",1,4.4
+"Propionylpromazine","CCC(c(cc1)cc2c1Sc(cccc1)c1N2CCCN(C)C)=O","7.4",0,0
+"Propionylpromazine","CCC(c(cc1)cc2c1Sc(cccc1)c1N2CCCN(C)C)=O","7.4",1,16.3
+"Quinacrine","CCN(CC)CCCC(C)Nc(c1c2)c(ccc(Cl)c3)c3nc1ccc2OC","2.7",0,0
+"Quinacrine","CCN(CC)CCCC(C)Nc(c1c2)c(ccc(Cl)c3)c3nc1ccc2OC","2.7",1,85.4
+"Quinacrine","CCN(CC)CCCC(C)Nc(c1c2)c(ccc(Cl)c3)c3nc1ccc2OC","4.5",0,0
+"Quinacrine","CCN(CC)CCCC(C)Nc(c1c2)c(ccc(Cl)c3)c3nc1ccc2OC","4.5",1,100
+"Quinacrine","CCN(CC)CCCC(C)Nc(c1c2)c(ccc(Cl)c3)c3nc1ccc2OC","6.5",0,0
+"Quinacrine","CCN(CC)CCCC(C)Nc(c1c2)c(ccc(Cl)c3)c3nc1ccc2OC","6.5",1,58.8
+"Quinacrine","CCN(CC)CCCC(C)Nc(c1c2)c(ccc(Cl)c3)c3nc1ccc2OC","7.4",0,0
+"Quinacrine","CCN(CC)CCCC(C)Nc(c1c2)c(ccc(Cl)c3)c3nc1ccc2OC","7.4",1,100
+"Quinine","COc1cc2c(C(C(CC3CC4)N4CC3C=C)O)ccnc2cc1","2.7",0,0
+"Quinine","COc1cc2c(C(C(CC3CC4)N4CC3C=C)O)ccnc2cc1","2.7",1,0
+"Quinine","COc1cc2c(C(C(CC3CC4)N4CC3C=C)O)ccnc2cc1","4.5",0,0
+"Quinine","COc1cc2c(C(C(CC3CC4)N4CC3C=C)O)ccnc2cc1","4.5",1,0
+"Quinine","COc1cc2c(C(C(CC3CC4)N4CC3C=C)O)ccnc2cc1","6.5",0,0
+"Quinine","COc1cc2c(C(C(CC3CC4)N4CC3C=C)O)ccnc2cc1","6.5",1,0
+"Quinine","COc1cc2c(C(C(CC3CC4)N4CC3C=C)O)ccnc2cc1","7.4",0,0
+"Quinine","COc1cc2c(C(C(CC3CC4)N4CC3C=C)O)ccnc2cc1","7.4",1,0
+"Ranitidine","CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O","2.7",0,0
+"Ranitidine","CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O","2.7",1,100
+"Ranitidine","CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O","4.5",0,0
+"Ranitidine","CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O","4.5",1,60.6
+"Ranitidine","CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O","6.5",0,33.4
+"Ranitidine","CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O","6.5",1,36.7
+"Ranitidine","CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O","7.4",0,92.6
+"Ranitidine","CNC(NCCSCc1ccc(CN(C)C)o1)=C[N+]([O-])=O","7.4",1,92.5
+"Rosuvastatin","CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c(cc2)ccc2F)c1C=CC(CC(CC([O-])=O)O)O","2.7",0,7.5
+"Rosuvastatin","CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c(cc2)ccc2F)c1C=CC(CC(CC([O-])=O)O)O","2.7",1,21.1
+"Rosuvastatin","CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c(cc2)ccc2F)c1C=CC(CC(CC([O-])=O)O)O","4.5",0,0
+"Rosuvastatin","CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c(cc2)ccc2F)c1C=CC(CC(CC([O-])=O)O)O","4.5",1,0
+"Rosuvastatin","CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c(cc2)ccc2F)c1C=CC(CC(CC([O-])=O)O)O","6.5",0,0
+"Rosuvastatin","CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c(cc2)ccc2F)c1C=CC(CC(CC([O-])=O)O)O","6.5",1,0
+"Rosuvastatin","CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c(cc2)ccc2F)c1C=CC(CC(CC([O-])=O)O)O","7.4",0,0
+"Rosuvastatin","CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c(cc2)ccc2F)c1C=CC(CC(CC([O-])=O)O)O","7.4",1,0
+"Sertraline","CNC(CCC1c(cc2)cc(Cl)c2Cl)c2c1cccc2","2.7",0,0
+"Sertraline","CNC(CCC1c(cc2)cc(Cl)c2Cl)c2c1cccc2","2.7",1,34.4
+"Sertraline","CNC(CCC1c(cc2)cc(Cl)c2Cl)c2c1cccc2","4.5",0,0
+"Sertraline","CNC(CCC1c(cc2)cc(Cl)c2Cl)c2c1cccc2","4.5",1,0
+"Sertraline","CNC(CCC1c(cc2)cc(Cl)c2Cl)c2c1cccc2","6.5",0,0
+"Sertraline","CNC(CCC1c(cc2)cc(Cl)c2Cl)c2c1cccc2","6.5",1,0
+"Sertraline","CNC(CCC1c(cc2)cc(Cl)c2Cl)c2c1cccc2","7.4",0,0
+"Sertraline","CNC(CCC1c(cc2)cc(Cl)c2Cl)c2c1cccc2","7.4",1,16.8
+"Silibinin","COc(cc(C1Oc(cc(C(C(C2=O)O)Oc3c2c(O)cc(O)c3)cc2)c2OC1CO)cc1)c1O","2.7",0,0
+"Silibinin","COc(cc(C1Oc(cc(C(C(C2=O)O)Oc3c2c(O)cc(O)c3)cc2)c2OC1CO)cc1)c1O","2.7",1,100
+"Silibinin","COc(cc(C1Oc(cc(C(C(C2=O)O)Oc3c2c(O)cc(O)c3)cc2)c2OC1CO)cc1)c1O","4.5",0,0
+"Silibinin","COc(cc(C1Oc(cc(C(C(C2=O)O)Oc3c2c(O)cc(O)c3)cc2)c2OC1CO)cc1)c1O","4.5",1,88.2
+"Silibinin","COc(cc(C1Oc(cc(C(C(C2=O)O)Oc3c2c(O)cc(O)c3)cc2)c2OC1CO)cc1)c1O","6.5",0,0
+"Silibinin","COc(cc(C1Oc(cc(C(C(C2=O)O)Oc3c2c(O)cc(O)c3)cc2)c2OC1CO)cc1)c1O","6.5",1,38.6
+"Silibinin","COc(cc(C1Oc(cc(C(C(C2=O)O)Oc3c2c(O)cc(O)c3)cc2)c2OC1CO)cc1)c1O","7.4",0,67.5
+"Silibinin","COc(cc(C1Oc(cc(C(C(C2=O)O)Oc3c2c(O)cc(O)c3)cc2)c2OC1CO)cc1)c1O","7.4",1,84.4
+"Sulfasalazine","OC(c(cc(cc1)N=Nc(cc2)ccc2S(Nc2ncccc2)(=O)=O)c1O)=O","2.7",0,0
+"Sulfasalazine","OC(c(cc(cc1)N=Nc(cc2)ccc2S(Nc2ncccc2)(=O)=O)c1O)=O","2.7",1,0
+"Sulfasalazine","OC(c(cc(cc1)N=Nc(cc2)ccc2S(Nc2ncccc2)(=O)=O)c1O)=O","4.5",0,0
+"Sulfasalazine","OC(c(cc(cc1)N=Nc(cc2)ccc2S(Nc2ncccc2)(=O)=O)c1O)=O","4.5",1,65
+"Sulfasalazine","OC(c(cc(cc1)N=Nc(cc2)ccc2S(Nc2ncccc2)(=O)=O)c1O)=O","6.5",0,0
+"Sulfasalazine","OC(c(cc(cc1)N=Nc(cc2)ccc2S(Nc2ncccc2)(=O)=O)c1O)=O","6.5",1,32.7
+"Sulfasalazine","OC(c(cc(cc1)N=Nc(cc2)ccc2S(Nc2ncccc2)(=O)=O)c1O)=O","7.4",0,0
+"Sulfasalazine","OC(c(cc(cc1)N=Nc(cc2)ccc2S(Nc2ncccc2)(=O)=O)c1O)=O","7.4",1,0
+"Sulindac","CC1=C(CC(O)=O)c(cc(cc2)F)c2C1=Cc(cc1)ccc1S(C)=O","2.7",0,0
+"Sulindac","CC1=C(CC(O)=O)c(cc(cc2)F)c2C1=Cc(cc1)ccc1S(C)=O","2.7",1,41.8
+"Sulindac","CC1=C(CC(O)=O)c(cc(cc2)F)c2C1=Cc(cc1)ccc1S(C)=O","4.5",0,0
+"Sulindac","CC1=C(CC(O)=O)c(cc(cc2)F)c2C1=Cc(cc1)ccc1S(C)=O","4.5",1,72
+"Sulindac","CC1=C(CC(O)=O)c(cc(cc2)F)c2C1=Cc(cc1)ccc1S(C)=O","6.5",0,0
+"Sulindac","CC1=C(CC(O)=O)c(cc(cc2)F)c2C1=Cc(cc1)ccc1S(C)=O","6.5",1,21.8
+"Sulindac","CC1=C(CC(O)=O)c(cc(cc2)F)c2C1=Cc(cc1)ccc1S(C)=O","7.4",0,0
+"Sulindac","CC1=C(CC(O)=O)c(cc(cc2)F)c2C1=Cc(cc1)ccc1S(C)=O","7.4",1,28.4
+"Sulpiride","CCN1C(CNC(c(cc(cc2)S(N)(=O)=O)c2OC)=O)CCC1","2.7",0,0
+"Sulpiride","CCN1C(CNC(c(cc(cc2)S(N)(=O)=O)c2OC)=O)CCC1","2.7",1,0
+"Sulpiride","CCN1C(CNC(c(cc(cc2)S(N)(=O)=O)c2OC)=O)CCC1","4.5",0,0
+"Sulpiride","CCN1C(CNC(c(cc(cc2)S(N)(=O)=O)c2OC)=O)CCC1","4.5",1,0
+"Sulpiride","CCN1C(CNC(c(cc(cc2)S(N)(=O)=O)c2OC)=O)CCC1","6.5",0,0
+"Sulpiride","CCN1C(CNC(c(cc(cc2)S(N)(=O)=O)c2OC)=O)CCC1","6.5",1,0
+"Sulpiride","CCN1C(CNC(c(cc(cc2)S(N)(=O)=O)c2OC)=O)CCC1","7.4",0,0
+"Sulpiride","CCN1C(CNC(c(cc(cc2)S(N)(=O)=O)c2OC)=O)CCC1","7.4",1,0
+"Tamoxifen","CCC(c1ccccc1)=C(c1ccccc1)c(cc1)ccc1OCCN(C)C","2.7",0,0
+"Tamoxifen","CCC(c1ccccc1)=C(c1ccccc1)c(cc1)ccc1OCCN(C)C","2.7",1,59.2
+"Tamoxifen","CCC(c1ccccc1)=C(c1ccccc1)c(cc1)ccc1OCCN(C)C","4.5",0,1.1
+"Tamoxifen","CCC(c1ccccc1)=C(c1ccccc1)c(cc1)ccc1OCCN(C)C","4.5",1,91
+"Tamoxifen","CCC(c1ccccc1)=C(c1ccccc1)c(cc1)ccc1OCCN(C)C","6.5",0,0
+"Tamoxifen","CCC(c1ccccc1)=C(c1ccccc1)c(cc1)ccc1OCCN(C)C","6.5",1,11.7
+"Tamoxifen","CCC(c1ccccc1)=C(c1ccccc1)c(cc1)ccc1OCCN(C)C","7.4",0,0
+"Tamoxifen","CCC(c1ccccc1)=C(c1ccccc1)c(cc1)ccc1OCCN(C)C","7.4",1,43.1
+"Telmisartan","CCCc1nc(c(C)cc(-c2nc(cccc3)c3n2C)c2)c2n1Cc(cc1)ccc1-c(cccc1)c1C(O)=O","2.7",0,0
+"Telmisartan","CCCc1nc(c(C)cc(-c2nc(cccc3)c3n2C)c2)c2n1Cc(cc1)ccc1-c(cccc1)c1C(O)=O","2.7",1,0
+"Telmisartan","CCCc1nc(c(C)cc(-c2nc(cccc3)c3n2C)c2)c2n1Cc(cc1)ccc1-c(cccc1)c1C(O)=O","4.5",0,0
+"Telmisartan","CCCc1nc(c(C)cc(-c2nc(cccc3)c3n2C)c2)c2n1Cc(cc1)ccc1-c(cccc1)c1C(O)=O","4.5",1,0
+"Telmisartan","CCCc1nc(c(C)cc(-c2nc(cccc3)c3n2C)c2)c2n1Cc(cc1)ccc1-c(cccc1)c1C(O)=O","6.5",0,0
+"Telmisartan","CCCc1nc(c(C)cc(-c2nc(cccc3)c3n2C)c2)c2n1Cc(cc1)ccc1-c(cccc1)c1C(O)=O","6.5",1,0
+"Telmisartan","CCCc1nc(c(C)cc(-c2nc(cccc3)c3n2C)c2)c2n1Cc(cc1)ccc1-c(cccc1)c1C(O)=O","7.4",0,0
+"Telmisartan","CCCc1nc(c(C)cc(-c2nc(cccc3)c3n2C)c2)c2n1Cc(cc1)ccc1-c(cccc1)c1C(O)=O","7.4",1,0
+"Tenoxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2ccs1)O)S2(=O)=O","2.7",0,0
+"Tenoxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2ccs1)O)S2(=O)=O","2.7",1,100
+"Tenoxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2ccs1)O)S2(=O)=O","4.5",0,0
+"Tenoxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2ccs1)O)S2(=O)=O","4.5",1,100
+"Tenoxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2ccs1)O)S2(=O)=O","6.5",0,0
+"Tenoxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2ccs1)O)S2(=O)=O","6.5",1,20.7
+"Tenoxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2ccs1)O)S2(=O)=O","7.4",0,0
+"Tenoxicam","CN(C(C(Nc1ncccc1)=O)=C(c1c2ccs1)O)S2(=O)=O","7.4",1,69.7
+"Terfenadine","CC(C)(C)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","2.7",0,0
+"Terfenadine","CC(C)(C)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","2.7",1,68.3
+"Terfenadine","CC(C)(C)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","4.5",0,0
+"Terfenadine","CC(C)(C)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","4.5",1,61.4
+"Terfenadine","CC(C)(C)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","6.5",0,0
+"Terfenadine","CC(C)(C)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","6.5",1,47.4
+"Terfenadine","CC(C)(C)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","7.4",0,0
+"Terfenadine","CC(C)(C)c1ccc(C(CCCN(CC2)CCC2C(c2ccccc2)(c2ccccc2)O)O)cc1","7.4",1,26.5
+"Thioridazine","CN1C(CCN2c(cc(cc3)SC)c3Sc3c2cccc3)CCCC1","2.7",0,0
+"Thioridazine","CN1C(CCN2c(cc(cc3)SC)c3Sc3c2cccc3)CCCC1","2.7",1,100
+"Thioridazine","CN1C(CCN2c(cc(cc3)SC)c3Sc3c2cccc3)CCCC1","4.5",0,9.8
+"Thioridazine","CN1C(CCN2c(cc(cc3)SC)c3Sc3c2cccc3)CCCC1","4.5",1,100
+"Thioridazine","CN1C(CCN2c(cc(cc3)SC)c3Sc3c2cccc3)CCCC1","6.5",0,7.2
+"Thioridazine","CN1C(CCN2c(cc(cc3)SC)c3Sc3c2cccc3)CCCC1","6.5",1,21.4
+"Thioridazine","CN1C(CCN2c(cc(cc3)SC)c3Sc3c2cccc3)CCCC1","7.4",0,0
+"Thioridazine","CN1C(CCN2c(cc(cc3)SC)c3Sc3c2cccc3)CCCC1","7.4",1,60.1
+"Tolnaftate","Cc1cccc(N(C)C(Oc2cc3ccccc3cc2)=S)c1","2.7",0,0
+"Tolnaftate","Cc1cccc(N(C)C(Oc2cc3ccccc3cc2)=S)c1","2.7",1,71.1
+"Tolnaftate","Cc1cccc(N(C)C(Oc2cc3ccccc3cc2)=S)c1","4.5",0,0
+"Tolnaftate","Cc1cccc(N(C)C(Oc2cc3ccccc3cc2)=S)c1","4.5",1,0
+"Tolnaftate","Cc1cccc(N(C)C(Oc2cc3ccccc3cc2)=S)c1","6.5",0,0
+"Tolnaftate","Cc1cccc(N(C)C(Oc2cc3ccccc3cc2)=S)c1","6.5",1,0
+"Tolnaftate","Cc1cccc(N(C)C(Oc2cc3ccccc3cc2)=S)c1","7.4",0,0
+"Tolnaftate","Cc1cccc(N(C)C(Oc2cc3ccccc3cc2)=S)c1","7.4",1,0
+"Trifluoperazine","CN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","2.7",0,0
+"Trifluoperazine","CN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","2.7",1,100
+"Trifluoperazine","CN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","4.5",0,0
+"Trifluoperazine","CN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","4.5",1,100
+"Trifluoperazine","CN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","6.5",0,0
+"Trifluoperazine","CN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","6.5",1,68.9
+"Trifluoperazine","CN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","7.4",0,0
+"Trifluoperazine","CN1CCN(CCCN2c(cc(C(F)(F)F)cc3)c3Sc3c2cccc3)CC1","7.4",1,56
+"Verapamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC","2.7",0,0
+"Verapamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC","2.7",1,85.3
+"Verapamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC","4.5",0,0
+"Verapamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC","4.5",1,100
+"Verapamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC","6.5",0,0
+"Verapamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC","6.5",1,68.1
+"Verapamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC","7.4",0,0
+"Verapamil","CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC","7.4",1,74.5
+"Warfarin","CC(CC(c1ccccc1)C(C(Oc1c2cccc1)=O)=C2O)=O","2.7",0,0
+"Warfarin","CC(CC(c1ccccc1)C(C(Oc1c2cccc1)=O)=C2O)=O","2.7",1,68.8
+"Warfarin","CC(CC(c1ccccc1)C(C(Oc1c2cccc1)=O)=C2O)=O","4.5",0,0
+"Warfarin","CC(CC(c1ccccc1)C(C(Oc1c2cccc1)=O)=C2O)=O","4.5",1,100
+"Warfarin","CC(CC(c1ccccc1)C(C(Oc1c2cccc1)=O)=C2O)=O","6.5",0,0
+"Warfarin","CC(CC(c1ccccc1)C(C(Oc1c2cccc1)=O)=C2O)=O","6.5",1,47.1
+"Warfarin","CC(CC(c1ccccc1)C(C(Oc1c2cccc1)=O)=C2O)=O","7.4",0,0
+"Warfarin","CC(CC(c1ccccc1)C(C(Oc1c2cccc1)=O)=C2O)=O","7.4",1,0
+"Deucravacitinib","CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4","2.7",0,0
+"Deucravacitinib","CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4","2.7",1,0
+"Deucravacitinib","CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4","4.5",0,0
+"Deucravacitinib","CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4","4.5",1,0
+"Deucravacitinib","CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4","6.5",0,0
+"Deucravacitinib","CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4","6.5",1,0
+"Deucravacitinib","CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4","7.4",0,0
+"Deucravacitinib","CNC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4","7.4",1,0
+"Amitryptilin","CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31","4.5",0,0
+"Amitryptilin","CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31","4.5",1,94.14
+"Physostigmine","C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C","4.5",0,0
+"Physostigmine","C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C","4.5",1,100
+"Atropine","CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)c3ccccc3","4.5",0,0
+"Atropine","CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C(CO)c3ccccc3","4.5",1,0
+"Bupivacaine","CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C.Cl","4.5",0,0
+"Bupivacaine","CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C.Cl","4.5",1,0
+"Ceftriaxone","CN1C(=NC(=O)C(=N1)[O-])SCC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)[O-].[Na+].[Na+]","4.5",0,0
+"Ceftriaxone","CN1C(=NC(=O)C(=N1)[O-])SCC2=C(N3C(C(C3=O)NC(=O)C(=NOC)C4=CSC(=N4)N)SC2)C(=O)[O-].[Na+].[Na+]","4.5",1,93.4
+"Cimetidine","CC1=C(N=CN1)CSCCNC(=NC)NC#N","4.5",0,0
+"Cimetidine","CC1=C(N=CN1)CSCCNC(=NC)NC#N","4.5",1,43.4
+"Clofibrate","CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl","4.5",0,0
+"Clofibrate","CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl","4.5",1,0
+"Dexomethorphan","CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC","4.5",0,0
+"Dexomethorphan","CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC","4.5",1,13.98
+"Diazepam","CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3","4.5",0,0
+"Diazepam","CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3","4.5",1,0
+"Diclofenac","C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl.[Na+]","4.5",0,0
+"Diclofenac","C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl.[Na+]","4.5",1,96.88
+"Dipyridamole","C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO","4.5",0,8
+"Dipyridamole","C1CCN(CC1)C2=NC(=NC3=C2N=C(N=C3N4CCCCC4)N(CCO)CCO)N(CCO)CCO","4.5",1,100
+"Lidocaine","CCN(CC)CC(=O)NC1=C(C=CC=C1C)C","4.5",0,0
+"Lidocaine","CCN(CC)CC(=O)NC1=C(C=CC=C1C)C","4.5",1,50.3
+"Methclopramide","CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl.Cl","4.5",0,6.7
+"Methclopramide","CCN(CC)CCNC(=O)C1=CC(=C(C=C1OC)N)Cl.Cl","4.5",1,100
+"Mianserin","CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42.Cl","4.5",0,0
+"Mianserin","CN1CCN2C(C1)C3=CC=CC=C3CC4=CC=CC=C42.Cl","4.5",1,67.66
+"N-acetyl-Carnosine","CC(=O)NCCC(=O)N[C@@H](CC1=CN=CN1)C(=O)O","4.5",0,0
+"N-acetyl-Carnosine","CC(=O)NCCC(=O)N[C@@H](CC1=CN=CN1)C(=O)O","4.5",1,0
+"Naproxen","CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O","4.5",0,0
+"Naproxen","CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O","4.5",1,5.97
+"Penbutolol","CC(C)(C)NCC(COC1=CC=CC=C1C2CCCC2)O","4.5",0,0
+"Penbutolol","CC(C)(C)NCC(COC1=CC=CC=C1C2CCCC2)O","4.5",1,0
+"Phenytoin","C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3","4.5",0,0
+"Phenytoin","C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3","4.5",1,0
+"Pilocarpine","CCC1C(COC1=O)CC2=CN=CN2C.Cl","4.5",0,0
+"Pilocarpine","CCC1C(COC1=O)CC2=CN=CN2C.Cl","4.5",1,0
+"Primaquine","CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2","4.5",0,0
+"Primaquine","CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2","4.5",1,78.2
+"Pyrilamine","CN(C)CCN(Cc1ccc(cc1)OC)c2ccccn2","4.5",0,0
+"Pyrilamine","CN(C)CCN(Cc1ccc(cc1)OC)c2ccccn2","4.5",1,82.17
+"Testosterone","C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C","4.5",0,0
+"Testosterone","C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C","4.5",1,0
+"Tetracaine","CCCCNC1=CC=C(C=C1)C(=O)OCCN(C)C.Cl","4.5",0,0
+"Tetracaine","CCCCNC1=CC=C(C=C1)C(=O)OCCN(C)C.Cl","4.5",1,85.83
+"Thiopenthal","CCCC(C)C1(C(=O)NC(=S)NC1=O)CC","4.5",0,0
+"Thiopenthal","CCCC(C)C1(C(=O)NC(=S)NC1=O)CC","4.5",1,9
+"Ticlopidine","C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl.Cl","4.5",0,0
+"Ticlopidine","C1CN(CC2=C1SC=C2)CC3=CC=CC=C3Cl.Cl","4.5",1,69
+"Timolol","CC(C)(C)NC[C@@H](COC1=NSN=C1N2CCOCC2)O","4.5",0,0
+"Timolol","CC(C)(C)NC[C@@H](COC1=NSN=C1N2CCOCC2)O","4.5",1,61.64
+"Trimethoprim","COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N","4.5",0,0
+"Trimethoprim","COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N","4.5",1,0

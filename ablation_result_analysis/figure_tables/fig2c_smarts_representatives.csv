@@ -1,0 +1,11 @@
+reaction,hot_pattern,representative,smiles,n_atoms_matched,shows_reaction
+Ar_ox,hot_Ar_ox,Diclofenac,C1=CC=C(C(=C1)CC(=O)[O-])NC2=C(C=CC=C2Cl)Cl.[Na+],2,1
+Bn_ox,hot_Bn_ox,Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,2,1
+deH_ox,hot_deH_ox,Cimetidine,CC1=C(N=CN1)CSCCNC(=NC)NC#N,3,1
+N_dealk,hot_N_dealk,Lidocaine,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,2,1
+N_dearyl,hot_N_dearyl,Bromfenac,Nc(c(CC([O-])=O)ccc1)c1C(c(cc1)ccc1Br)=O,2,1
+O_dealk,hot_O_dealk,Naproxen,CC(C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O,2,1
+O_dearyl,hot_O_dearyl,Diloxandine ,CN(C(C(Cl)Cl)=O)c(cc1)ccc1OC(c1ccco1)=O,2,1
+OH_ox,hot_OH_ox,Timolol,CC(C)(C)NC[C@@H](COC1=NSN=C1N2CCOCC2)O,2,1
+R_ox,hot_R_ox,Lidocaine,CCN(CC)CC(=O)NC1=C(C=CC=C1C)C,3,1
+S_ox,hot_S_ox,Chlorpromazine,CN(C)CCCN1c(cc(cc2)Cl)c2Sc2c1cccc2,3,1

@@ -1,0 +1,13 @@
+target,n_labelled,n_pos,n_neg,prevalence,n_train,n_test,train_pos,test_pos,cv_folds,split_mode,shares_global_split
+percent,127,44,83,0.3464566929133858,101,26,40,4,5,global_scaffold,True
+Ar_ox,127,9,118,0.07086614173228346,101,26,8,1,5,global_scaffold,True
+Bn_ox,127,10,117,0.07874015748031496,102,25,8,2,5,per_assay_scaffold,False
+deH_ox,127,32,95,0.25196850393700787,101,26,28,4,5,global_scaffold,True
+N_dealk,127,48,79,0.3779527559055118,101,26,36,12,5,global_scaffold,True
+N_dearyl,127,8,119,0.06299212598425197,101,26,6,2,5,per_assay_scaffold,False
+O_dealk,127,17,110,0.13385826771653545,101,26,13,4,5,global_scaffold,True
+O_dearyl,127,5,122,0.03937007874015748,102,25,4,1,4,per_assay_scaffold,False
+OH_ox,127,35,92,0.2755905511811024,101,26,28,7,5,global_scaffold,True
+R_ox,127,29,98,0.2283464566929134,101,26,24,5,5,global_scaffold,True
+S_ox,127,3,124,0.023622047244094488,101,26,2,1,2,global_scaffold,True
+unk_ox,127,31,96,0.2440944881889764,101,26,22,9,5,global_scaffold,True

@@ -1,0 +1,40 @@
+{
+  "arm": "6_multitask_dimenetpp",
+  "task_names": [
+    "Ar_ox",
+    "Bn_ox",
+    "deH_ox",
+    "N_dealk",
+    "N_dearyl",
+    "O_dealk",
+    "O_dearyl",
+    "OH_ox",
+    "R_ox",
+    "S_ox",
+    "unk_ox"
+  ],
+  "best_config": {
+    "hidden": 64,
+    "batch_size": 8,
+    "lr": 0.0005,
+    "weight_decay": 0.0001,
+    "dropout": 0.2,
+    "activation": "relu",
+    "gine_layers": 4
+  },
+  "epoch_rule": 17,
+  "thresholds": [
+    0.44499999999999995,
+    0.48499999999999993,
+    0.07999999999999999,
+    0.15,
+    0.22499999999999998,
+    0.43999999999999995,
+    0.675,
+    0.24,
+    0.30999999999999994,
+    0.15499999999999997,
+    0.41999999999999993
+  ],
+  "cv_macro_pr_auc": 0.20640664802911246
+}

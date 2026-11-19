@@ -1,0 +1,4 @@
+hidden,batch_size,lr,weight_decay,dropout,activation,gine_layers,select_macro_pr_auc
+64,16,0.001,1e-05,0.1,relu,3,0.24978607731837635
+128,16,0.001,1e-05,0.2,relu,3,0.26294528745989976
+64,8,0.0005,0.0001,0.2,relu,4,0.2714970536994914

@@ -1,0 +1,2 @@
+target,roc_auc,pr_auc,threshold,f1,accuracy,balanced_accuracy,mcc,Se,Sp,PPV,NPV,tn,fp,fn,tp,n,prevalence,arm,arm_label,repeat,stage,ood_cutoff,ood_flag_rate,hidden,batch_size,lr,weight_decay,dropout,activation,gine_layers
+Ar_ox,0.48,0.07142857142857142,0.635,0.07407407407407407,0.038461538461538464,0.5,,1.0,0.0,0.038461538461538464,,0,25,0,1,26,0.038461538461538464,5_gnn_dimenetpp,5  single-task DimeNet++ + bond graph,-1,test,0.8192771084337349,0.0,32,16,0.001,1e-05,0.2,relu,3

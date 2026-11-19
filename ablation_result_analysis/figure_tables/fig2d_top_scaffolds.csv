@@ -1,0 +1,6 @@
+scaffold,n_compounds
+c1ccccc1,5
+c1ccc2ncccc2c1,3
+c1ccc2c(c1)Nc1ccccc1S2,3
+c1ccc2c(c1)Sc1ccccc1N2CCCN1CCNCC1,3
+c1c[nH]cn1,2

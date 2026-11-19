@@ -1,0 +1,10 @@
+arm_a,arm_b,metric,n_pairs,median_diff,mean_diff,n_a_better,n_b_better,n_ties,test,p_value,statistic
+5_gnn_dimenetpp,best_baseline_per_assay,cv_pr_auc_mean,12,-0.1445322823591803,-0.17525759662066723,0,12,0,wilcoxon_signed_rank,0.00048828125,0.0
+6_multitask_dimenetpp,best_baseline_per_assay,cv_pr_auc_mean,11,-0.1445909534971658,-0.19557750316574515,0,11,0,wilcoxon_signed_rank,0.0009765625,0.0
+4_all_rf,1_hot_logreg,cv_pr_auc_mean,12,0.04172754279646454,0.023408730260240925,8,4,0,wilcoxon_signed_rank,0.33935546875,26.0
+4_all_rf,2a_ecfp4_logreg,cv_pr_auc_mean,12,0.0667153371104766,0.06439795651659012,9,3,0,wilcoxon_signed_rank,0.10986328125,18.0
+4_all_rf,0_prior,cv_pr_auc_mean,12,0.17129108199589327,0.19040607736798265,12,0,0,wilcoxon_signed_rank,0.00048828125,0.0
+2b_ecfp4_rf,1_hot_logreg,cv_pr_auc_mean,12,0.002030876615112323,-0.01314771876684454,6,6,0,wilcoxon_signed_rank,0.7333984375,34.0
+2b_ecfp4_rf,2a_ecfp4_logreg,cv_pr_auc_mean,12,0.025421803023204764,0.027841507489504657,7,5,0,wilcoxon_signed_rank,0.26611328125,24.0
+2b_ecfp4_rf,0_prior,cv_pr_auc_mean,12,0.112706082833688,0.1538496283408972,12,0,0,wilcoxon_signed_rank,0.00048828125,0.0
+6_multitask_dimenetpp,5_gnn_dimenetpp,cv_pr_auc_mean,11,-0.0212347236267873,-0.018724539898945382,3,8,0,wilcoxon_signed_rank,0.2783203125,20.0
